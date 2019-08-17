@@ -1,0 +1,1032 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="НТВ" group-title="Россия" tvg-name="НТВ",НТВ
+http://ruip.tv/9413/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НТВ HD" group-title="Россия" tvg-name="НТВ HD",НТВ HD
+http://ruip.tv/8711/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НТВ HD Orig" group-title="Россия" tvg-name="НТВ HD Orig",НТВ HD Orig
+http://ruip.tv/2017/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НТВ (+2)" group-title="Россия" tvg-name="НТВ (+2)",НТВ (+2)
+http://ruip.tv/8004/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НТВ (+4)" group-title="Россия" tvg-name="НТВ (+4)",НТВ (+4)
+http://ruip.tv/7454/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НТВ (+6)" group-title="Россия" tvg-name="НТВ (+6)",НТВ (+6)
+http://ruip.tv/5040/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НТВ (+8)" group-title="Россия" tvg-name="НТВ (+8)",НТВ (+8)
+http://ruip.tv/4239/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НТВ Мир" group-title="Россия" tvg-name="НТВ Мир",НТВ Мир
+http://ruip.tv/7870/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НТВ Сериал" group-title="Кино" tvg-name="НТВ Сериал",НТВ Сериал
+http://ruip.tv/3213/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НТВ Хит" group-title="Кино" tvg-name="НТВ Хит",НТВ Хит
+http://ruip.tv/1445/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия 1" group-title="Россия" tvg-name="Россия 1",Россия 1
+http://ruip.tv/9226/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия 1 (+2)" group-title="Россия" tvg-name="Россия 1 (+2)",Россия 1 (+2)
+http://ruip.tv/4936/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия 1 (+4)" group-title="Россия" tvg-name="Россия 1 (+4)",Россия 1 (+4)
+http://ruip.tv/5445/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия 1 (+6)" group-title="Россия" tvg-name="Россия 1 (+6)",Россия 1 (+6)
+http://ruip.tv/5764/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия 1 (+8)" group-title="Россия" tvg-name="Россия 1 (+8)",Россия 1 (+8)
+http://ruip.tv/1503/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия 1 HD Orig" group-title="Россия" tvg-name="Россия 1 HD Orig",Россия 1 HD Orig
+http://ruip.tv/2151/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия 1 HD" group-title="Россия" tvg-name="Россия 1 HD",Россия 1 HD
+http://ruip.tv/5963/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия 24" group-title="Новостные" tvg-name="Россия 24",Россия 24
+http://ruip.tv/7146/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия К" group-title="Россия" tvg-name="Россия К",Россия К
+http://ruip.tv/4539/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия К (+2)" group-title="Россия" tvg-name="Россия К (+2)",Россия К (+2)
+http://ruip.tv/5393/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия К (+4)" group-title="Россия" tvg-name="Россия К (+4)",Россия К (+4)
+http://ruip.tv/4032/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия К +6" group-title="Россия" tvg-name="Россия К +6",Россия К +6
+http://ruip.tv/6780/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия-24 +8" group-title="Новостные" tvg-name="Россия-24 +8",Россия-24 +8
+http://ruip.tv/2044/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Россия-К +8" group-title="Россия" tvg-name="Россия-К +8",Россия-К +8
+http://ruip.tv/4799/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="СТС" group-title="Россия" tvg-name="СТС",СТС
+http://ruip.tv/9716/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="СТС (+2)" group-title="Россия" tvg-name="СТС (+2)",СТС (+2)
+http://ruip.tv/6885/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="СТС (+4)" group-title="Россия" tvg-name="СТС (+4)",СТС (+4)
+http://ruip.tv/8715/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="СТС (+6)" group-title="Россия" tvg-name="СТС (+6)",СТС (+6)
+http://ruip.tv/9013/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="СТС Kids HD" group-title="Детские" tvg-name="СТС Kids HD",СТС Kids HD
+http://ruip.tv/9954/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="СТС Love" group-title="Россия" tvg-name="СТС Love",СТС Love
+http://ruip.tv/6621/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Супер" group-title="Россия" tvg-name="Супер",Супер
+http://ruip.tv/3573/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Супер (+2)" group-title="Россия" tvg-name="Супер (+2)",Супер (+2)
+http://ruip.tv/9051/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Супер (+4)" group-title="Россия" tvg-name="Супер (+4)",Супер (+4)
+http://ruip.tv/1922/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Супер +6" group-title="Кино" tvg-name="Супер +6",Супер +6
+http://ruip.tv/1823/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Тайна" group-title="Домашний Клуб" tvg-name="Тайна",Тайна
+http://ruip.tv/2207/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТВ3" group-title="Россия" tvg-name="ТВ3",ТВ3
+http://ruip.tv/7473/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТВ3 (+2)" group-title="Россия" tvg-name="ТВ3 (+2)",ТВ3 (+2)
+http://ruip.tv/1500/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТВ3 (+4)" group-title="Россия" tvg-name="ТВ3 (+4)",ТВ3 (+4)
+http://ruip.tv/4946/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТВ3 (+6)" group-title="Россия" tvg-name="ТВ3 (+6)",ТВ3 (+6)
+http://ruip.tv/9894/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Твой дом" group-title="Домашний Клуб" tvg-name="Твой дом",Твой дом
+http://ruip.tv/1715/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТВЦ" group-title="Россия" tvg-name="ТВЦ",ТВЦ
+http://ruip.tv/7846/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТВЦ (+2)" group-title="Россия" tvg-name="ТВЦ (+2)",ТВЦ (+2)
+http://ruip.tv/5366/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТВЦ (+4)" group-title="Россия" tvg-name="ТВЦ (+4)",ТВЦ (+4)
+http://ruip.tv/8991/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТВЦ (+6)" group-title="Россия" tvg-name="ТВЦ (+6)",ТВЦ (+6)
+http://ruip.tv/6262/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТВЦ (+8)" group-title="Россия" tvg-name="ТВЦ (+8)",ТВЦ (+8)
+http://ruip.tv/7618/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Пятница" group-title="Россия" tvg-name="Пятница",Пятница
+http://ruip.tv/3755/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Пятница (+2)" group-title="Россия" tvg-name="Пятница (+2)",Пятница (+2)
+http://ruip.tv/9345/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Пятница (+6)" group-title="Россия" tvg-name="Пятница (+6)",Пятница (+6)
+http://ruip.tv/6808/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Пятница HD" group-title="Россия" tvg-name="Пятница HD",Пятница HD
+http://ruip.tv/9657/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Пятый канал (+2)" group-title="Россия" tvg-name="Пятый канал (+2)",Пятый канал (+2)
+http://ruip.tv/4447/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Пятый канал (+4)" group-title="Россия" tvg-name="Пятый канал (+4)",Пятый канал (+4)
+http://ruip.tv/8598/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Пятый канал (+6)" group-title="Россия" tvg-name="Пятый канал (+6)",Пятый канал (+6)
+http://ruip.tv/5413/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Пятый канал" group-title="Россия" tvg-name="Пятый канал",Пятый канал
+http://ruip.tv/4750/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="РБК ТВ" group-title="Новостные" tvg-name="РБК ТВ",РБК ТВ
+http://ruip.tv/4428/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Рен ТВ" group-title="Россия" tvg-name="Рен ТВ",Рен ТВ
+http://ruip.tv/6401/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Рен ТВ (+2)" group-title="Россия" tvg-name="Рен ТВ (+2)",Рен ТВ (+2)
+http://ruip.tv/7175/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Рен ТВ (+6)" group-title="Россия" tvg-name="Рен ТВ (+6)",Рен ТВ (+6)
+http://ruip.tv/2741/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Рен ТВ HD" group-title="Россия" tvg-name="Рен ТВ HD",Рен ТВ HD
+http://ruip.tv/8082/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Че" group-title="Россия" tvg-name="Че",Че
+http://ruip.tv/8708/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Че (+4)" group-title="Россия" tvg-name="Че (+4)",Че (+4)
+http://ruip.tv/2519/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Театр" group-title="Россия" tvg-name="Театр",Театр
+http://ruip.tv/7310/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Телеканал 360 Новости" group-title="Новостные" tvg-name="Телеканал 360 Новости",Телеканал 360 Новости
+http://ruip.tv/3082/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Терра" group-title="Познавательные" tvg-name="Терра",Терра
+http://ruip.tv/2370/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Техно 24" group-title="Познавательные" tvg-name="Техно 24",Техно 24
+http://ruip.tv/2534/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Тлум HD" group-title="Детские" tvg-name="Тлум HD",Тлум HD
+http://ruip.tv/7952/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ" group-title="Россия" tvg-name="ТНТ",ТНТ
+http://ruip.tv/2468/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ (+2)" group-title="Россия" tvg-name="ТНТ (+2)",ТНТ (+2)
+http://ruip.tv/7754/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ (+4)" group-title="Россия" tvg-name="ТНТ (+4)",ТНТ (+4)
+http://ruip.tv/8594/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ (+6)" group-title="Россия" tvg-name="ТНТ (+6)",ТНТ (+6)
+http://ruip.tv/8960/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ +6" group-title="Россия" tvg-name="ТНТ +6",ТНТ +6
+http://ruip.tv/9517/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ HD" group-title="Россия" tvg-name="ТНТ HD",ТНТ HD
+http://ruip.tv/1337/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ Music" group-title="Музыкальные" tvg-name="ТНТ Music",ТНТ Music
+http://ruip.tv/4885/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ4" group-title="Россия" tvg-name="ТНТ4",ТНТ4
+http://ruip.tv/4848/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ4 (+2)" group-title="Россия" tvg-name="ТНТ4 (+2)",ТНТ4 (+2)
+http://ruip.tv/5288/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ4 (+4)" group-title="Россия" tvg-name="ТНТ4 (+4)",ТНТ4 (+4)
+http://ruip.tv/5156/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ4 +6" group-title="Россия" tvg-name="ТНТ4 +6",ТНТ4 +6
+http://ruip.tv/9300/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ТНТ4 HD" group-title="Россия" tvg-name="ТНТ4 HD",ТНТ4 HD
+http://ruip.tv/2304/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Домашний" group-title="Россия" tvg-name="Домашний",Домашний
+http://ruip.tv/9505/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Домашний (+2)" group-title="Россия" tvg-name="Домашний (+2)",Домашний (+2)
+http://ruip.tv/6944/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Домашний (+6)" group-title="Россия" tvg-name="Домашний (+6)",Домашний (+6)
+http://ruip.tv/3760/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Звезда" group-title="Россия" tvg-name="Звезда",Звезда
+http://ruip.tv/7796/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Звезда (+2)" group-title="Россия" tvg-name="Звезда (+2)",Звезда (+2)
+http://ruip.tv/8214/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Звезда (+4)" group-title="Россия" tvg-name="Звезда (+4)",Звезда (+4)
+http://ruip.tv/1766/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Звезда (+6)" group-title="Россия" tvg-name="Звезда (+6)",Звезда (+6)
+http://ruip.tv/5202/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мир" group-title="Россия" tvg-name="Мир",Мир
+http://ruip.tv/2810/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мир (+2)" group-title="Россия" tvg-name="Мир (+2)",Мир (+2)
+http://ruip.tv/9635/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мир (+6)" group-title="Россия" tvg-name="Мир (+6)",Мир (+6)
+http://ruip.tv/7562/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мир 24" group-title="Россия" tvg-name="Мир 24",Мир 24
+http://ruip.tv/1306/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мир Premium HD" group-title="Россия" tvg-name="Мир Premium HD",Мир Premium HD
+http://ruip.tv/7640/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Первый канал (+2)" group-title="Россия" tvg-name="Первый канал (+2)",Первый канал (+2)
+http://ruip.tv/9429/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Первый канал (+4)" group-title="Россия" tvg-name="Первый канал (+4)",Первый канал (+4)
+http://ruip.tv/9664/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Первый канал (+6)" group-title="Россия" tvg-name="Первый канал (+6)",Первый канал (+6)
+http://ruip.tv/8664/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Первый канал (+8)" group-title="Россия" tvg-name="Первый канал (+8)",Первый канал (+8)
+http://ruip.tv/7295/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Первый канал" group-title="Россия" tvg-name="Первый канал",Первый канал
+http://ruip.tv/9195/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Первый канал Европа" group-title="Россия" tvg-name="Первый канал Европа",Первый канал Европа
+http://ruip.tv/4795/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Планета РТР" group-title="Россия" tvg-name="Планета РТР",Планета РТР
+http://ruip.tv/5330/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="2x2" group-title="Россия" tvg-name="2x2",2x2
+http://ruip.tv/2935/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="2x2 (+2)" group-title="Россия" tvg-name="2x2 (+2)",2x2 (+2)
+http://ruip.tv/5200/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="2x2 (+4)" group-title="Россия" tvg-name="2x2 (+4)",2x2 (+4)
+http://ruip.tv/8806/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="34 Канал" group-title="Украина" tvg-name="34 Канал",34 Канал
+http://ruip.tv/9439/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Телеканал 360 HD" group-title="Россия" tvg-name="360 Подмосковье HD",360 Подмосковье HD
+http://ruip.tv/4898/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="365 дней" group-title="Познавательные" tvg-name="365 дней",365 дней
+http://ruip.tv/2331/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="4 Ever music HD" group-title="Музыкальные" tvg-name="4 Ever music HD",4 Ever music HD
+http://ruip.tv/9047/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="4 канал HD" group-title="Украина" tvg-name="4 канал HD",4 канал HD
+http://ruip.tv/4661/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="5 канал +8" group-title="Россия" tvg-name="5 канал +8",5 канал +8
+http://ruip.tv/8110/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="5 канал Украина" group-title="Украина" tvg-name="5 канал Украина",5 канал Украина
+http://ruip.tv/7806/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="8 канал" group-title="Россия" tvg-name="8 канал",8 канал
+http://ruip.tv/2455/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="8 канал HD" group-title="Украина" tvg-name="8 канал HD",8 канал HD
+http://ruip.tv/8335/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="8 Канал HD BY" group-title="Беларусь" tvg-name="8 Канал HD BY",8 Канал HD BY
+http://ruip.tv/8447/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Amedia 1 HD" group-title="Кино" tvg-name="Amedia 1 HD",Amedia 1 HD
+http://ruip.tv/7386/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Amedia 2" group-title="Кино" tvg-name="Amedia 2",Amedia 2
+http://ruip.tv/7515/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Amedia Hit HD" group-title="Кино" tvg-name="Amedia Hit HD",Amedia Hit HD
+http://ruip.tv/4546/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Amedia Premium HD" group-title="Кино" tvg-name="Amedia Premium HD",Amedia Premium HD
+http://ruip.tv/3610/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Amedia premium" group-title="Кино" tvg-name="Amedia premium",Amedia premium
+http://ruip.tv/7564/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Ani" group-title="Детские" tvg-name="Ani",Ani
+http://ruip.tv/9170/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Animal Planet HD" group-title="Познавательные" tvg-name="Animal Planet HD Orig",Animal Planet HD Orig
+http://ruip.tv/5474/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Animal Planet HD" group-title="Познавательные" tvg-name="Animal Planet HD",Animal Planet HD
+http://ruip.tv/3507/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Познавательные" tvg-name="Animal Planet",Animal Planet
+http://ruip.tv/7435/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Armenia HD AM" group-title="Армения" tvg-name="Armenia HD AM",Armenia HD AM
+http://ruip.tv/6042/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Armenia TV" group-title="Армения" tvg-name="Armenia TV",Armenia TV
+http://ruip.tv/8162/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Astana TV KZ" group-title="Казахстан" tvg-name="Astana TV KZ",Astana TV KZ
+http://ruip.tv/7893/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Atv HD AM" group-title="Армения" tvg-name="Atv HD AM",Atv HD AM
+http://ruip.tv/5659/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Baby TV" group-title="Детские" tvg-name="Baby TV",Baby TV
+http://ruip.tv/7114/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Bollywood HD" group-title="Кино" tvg-name="Bollywood HD",Bollywood HD
+http://ruip.tv/7148/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="BOLT" group-title="Кино" tvg-name="BOLT",BOLT
+http://ruip.tv/8597/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Boomerang" group-title="Детские" tvg-name="Boomerang",Boomerang
+http://ruip.tv/2275/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Brazzers TV 18+" group-title="18+" tvg-name="Brazzers TV 18+",Brazzers TV 18+
+http://ruip.tv/1143/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Bridge HD" group-title="Музыкальные" tvg-name="Bridge HD",Bridge HD
+http://ruip.tv/3413/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Bridge TV" group-title="Музыкальные" tvg-name="Bridge TV",Bridge TV
+http://ruip.tv/1774/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Bridge TV Classic" group-title="Музыкальные" tvg-name="Bridge TV Classic",Bridge TV Classic
+http://ruip.tv/9334/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Bridge TV Dance" group-title="Музыкальные" tvg-name="Bridge TV Dance",Bridge TV Dance
+http://ruip.tv/3704/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Bridge TV Русский хит" group-title="Музыкальные" tvg-name="Bridge TV Русский хит",Bridge TV Русский хит
+http://ruip.tv/5747/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="BTV" group-title="Литва" tvg-name="BTV",BTV
+http://ruip.tv/3855/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Детские" tvg-name="Cartoon Network",Cartoon Network
+http://ruip.tv/5635/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="CBS Reality" group-title="Познавательные" tvg-name="CBS Reality",CBS Reality
+http://ruip.tv/4399/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Channel 11 IL" group-title="Израиль" tvg-name="Channel 11 IL",Channel 11 IL
+http://ruip.tv/8247/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Channel 12 IL" group-title="Израиль" tvg-name="Channel 12 IL",Channel 12 IL
+http://ruip.tv/5773/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Channel 13 IL" group-title="Израиль" tvg-name="Channel 13 IL",Channel 13 IL
+http://ruip.tv/6635/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Channel 9 IL" group-title="Израиль" tvg-name="Channel 9 IL",Channel 9 IL
+http://ruip.tv/6998/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-name="Cinema",Cinema
+http://ruip.tv/5974/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Clubbing TV HD" group-title="Музыкальные" tvg-name="Clubbing TV HD",Clubbing TV HD
+http://ruip.tv/7053/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="CNN" group-title="Новостные" tvg-name="CNN",CNN
+http://ruip.tv/1797/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Da Vinci Kids" group-title="Познавательные" tvg-name="Da Vinci Kids",Da Vinci Kids
+http://ruip.tv/9395/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Discovery Channel HD" group-title="Познавательные" tvg-name="Discovery Channel HD Orig",Discovery Channel HD Orig
+http://ruip.tv/3186/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Discovery Channel HD" group-title="Познавательные" tvg-name="Discovery Channel HD",Discovery Channel HD
+http://ruip.tv/8979/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Discovery" group-title="Познавательные" tvg-name="Discovery Channel",Discovery Channel
+http://ruip.tv/3721/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Discovery HD Showcase" group-title="Познавательные" tvg-name="Discovery HD Showcase",Discovery HD Showcase
+http://ruip.tv/3258/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Discovery Science HD" group-title="Познавательные" tvg-name="Discovery Science HD",Discovery Science HD
+http://ruip.tv/6482/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Discovery Science" group-title="Познавательные" tvg-name="Discovery Science",Discovery Science
+http://ruip.tv/9502/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Discovery Showcase HD" group-title="Познавательные" tvg-name="Discovery Showcase HD Orig",Discovery Showcase HD Orig
+http://ruip.tv/3628/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Discovery World" group-title="Познавательные" tvg-name="Discovery World",Discovery World
+http://ruip.tv/8568/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Disney" group-title="Детские" tvg-name="Disney",Disney
+http://ruip.tv/7528/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Disney +6" group-title="Детские" tvg-name="Disney +6",Disney +6
+http://ruip.tv/3552/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="DTX" group-title="Познавательные" tvg-name="DTX",DTX
+http://ruip.tv/5508/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="DTX HD" group-title="Познавательные" tvg-name="DTX HD",DTX HD
+http://ruip.tv/7612/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="E!" group-title="Россия" tvg-name="E TV",E TV
+http://ruip.tv/7865/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Enter-фильм" group-title="Украина" tvg-name="Enter-фильм",Enter-фильм
+http://ruip.tv/3420/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Eureka HD" group-title="Познавательные" tvg-name="Eureka HD",Eureka HD
+http://ruip.tv/3269/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="EuroNews" group-title="Новостные" tvg-name="EuroNews",EuroNews
+http://ruip.tv/3882/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Europa Plus TV" group-title="Музыкальные" tvg-name="Europa Plus TV",Europa Plus TV
+http://ruip.tv/9995/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Eurosport 1 HD Orig" group-title="Спорт" tvg-name="Eurosport 1 HD Orig",Eurosport 1 HD Orig
+http://ruip.tv/8413/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="Спорт" tvg-name="Eurosport 1 HD",Eurosport 1 HD
+http://ruip.tv/1515/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Спорт" tvg-name="Eurosport 1",Eurosport 1
+http://ruip.tv/6623/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Eurosport 2 HD" group-title="Спорт" tvg-name="Eurosport 2 HD",Eurosport 2 HD
+http://ruip.tv/1525/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Eurosport 2 HD Orig" group-title="Спорт" tvg-name="Eurosport 2 HD Orig",Eurosport 2 HD Orig
+http://ruip.tv/9523/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Спорт" tvg-name="Eurosport 2",Eurosport 2
+http://ruip.tv/6904/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Eurosport Gold HD" group-title="Спорт" tvg-name="Eurosport Gold HD",Eurosport Gold HD
+http://ruip.tv/8749/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Extreme Sports" group-title="Спорт" tvg-name="Extreme Sports",Extreme Sports
+http://ruip.tv/1285/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="FAN" group-title="Детские" tvg-name="FAN",FAN
+http://ruip.tv/2006/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Fast&Fun Box HD" group-title="Мужской Клуб" tvg-name="Fast&Fun Box HD",Fast&Fun Box HD
+http://ruip.tv/9879/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="FilmBox Arthouse" group-title="Кино" tvg-name="FilmBox Arthouse",FilmBox Arthouse
+http://ruip.tv/2685/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Fine Living HD" group-title="Домашний Клуб" tvg-name="Fine Living HD",Fine Living HD
+http://ruip.tv/6252/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Food Network HD" group-title="Домашний Клуб" tvg-name="Food Network HD",Food Network HD
+http://ruip.tv/4922/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Fox HD" group-title="Кино" tvg-name="Fox HD",Fox HD
+http://ruip.tv/9764/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Fox Life HD" group-title="Кино" tvg-name="Fox Life HD",Fox Life HD
+http://ruip.tv/3108/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="FUEL TV HD" group-title="Спорт" tvg-name="FUEL TV HD",FUEL TV HD
+http://ruip.tv/5679/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Galaxy HD" group-title="Познавательные" tvg-name="Galaxy HD",Galaxy HD
+http://ruip.tv/2753/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Galaxy TV" group-title="Познавательные" tvg-name="Galaxy TV",Galaxy TV
+http://ruip.tv/6157/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Gulli" group-title="Детские" tvg-name="Gulli",Gulli
+http://ruip.tv/3723/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="H2 HD" group-title="Познавательные" tvg-name="H2 HD",H2 HD
+http://ruip.tv/1940/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="HD Life" group-title="Познавательные" tvg-name="HD Life",HD Life
+http://ruip.tv/6256/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="HD Life" group-title="Познавательные" tvg-name="HD Life Orig",HD Life Orig
+http://ruip.tv/5446/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="History HD" group-title="Познавательные" tvg-name="History HD",History HD
+http://ruip.tv/2267/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Hollywood HD" group-title="Кино" tvg-name="Hollywood HD",Hollywood HD
+http://ruip.tv/1996/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="HOME 4K" group-title="Домашний Клуб" tvg-name="HOME 4K",HOME 4K
+http://ruip.tv/7533/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="iConcerts HD" group-title="Музыкальные" tvg-name="iConcerts HD",iConcerts HD
+http://ruip.tv/4880/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ICTV" group-title="Украина" tvg-name="ICTV",ICTV
+http://ruip.tv/5886/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Insight UHD" group-title="Мужской Клуб" tvg-name="Insight UHD",Insight UHD
+http://ruip.tv/7004/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Investigation Discovery HD" group-title="Познавательные" tvg-name="Investigation Discovery HD",Investigation Discovery HD
+http://ruip.tv/5885/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ID Xtra" group-title="Познавательные" tvg-name="Investigation Discovery",Investigation Discovery
+http://ruip.tv/7060/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="JimJam" group-title="Детские" tvg-name="JimJam",JimJam
+http://ruip.tv/9763/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="KazSport KZ" group-title="Спорт" tvg-name="KazSport KZ",KazSport KZ
+http://ruip.tv/9686/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Kentron AM" group-title="Армения" tvg-name="Kentron AM",Kentron AM
+http://ruip.tv/2190/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Lale" group-title="Детские" tvg-name="Lale",Lale
+http://ruip.tv/9805/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Lale HD" group-title="Детские" tvg-name="Lale HD",Lale HD
+http://ruip.tv/6020/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="LNK LV" group-title="Латвия" tvg-name="LNK LV",LNK LV
+http://ruip.tv/1753/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="LRT Televizija LT" group-title="Литва" tvg-name="LRT Televizija LT",LRT Televizija LT
+http://ruip.tv/3733/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="LTV1" group-title="Латвия" tvg-name="LTV1",LTV1
+http://ruip.tv/1144/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Luxury World HD" group-title="Домашний Клуб" tvg-name="Luxury World HD",Luxury World HD
+http://ruip.tv/2387/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="M-1 Global TV" group-title="Спорт" tvg-name="M-1 Global TV",M-1 Global TV
+http://ruip.tv/8036/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Maxxi-TV" group-title="Украина" tvg-name="Maxxi-TV",Maxxi-TV
+http://ruip.tv/8190/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="MCM Top" group-title="Музыкальные" tvg-name="MCM Top",MCM Top
+http://ruip.tv/1148/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Mezzo Live HD" group-title="Музыкальные" tvg-name="Mezzo Live HD",Mezzo Live HD
+http://ruip.tv/3203/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="MTV Dance" group-title="Музыкальные" tvg-name="MTV Dance",MTV Dance
+http://ruip.tv/9197/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="MTV HD" group-title="Музыкальные" tvg-name="MTV HD",MTV HD
+http://ruip.tv/9621/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="MTV Hits" group-title="Музыкальные" tvg-name="MTV Hits",MTV Hits
+http://ruip.tv/5568/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="MTV Live HD" group-title="Музыкальные" tvg-name="MTV Live HD",MTV Live HD
+http://ruip.tv/8299/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="MTV Rocks" group-title="Музыкальные" tvg-name="MTV Rocks",MTV Rocks
+http://ruip.tv/2922/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Museum HD" group-title="Познавательные" tvg-name="Museum HD",Museum HD
+http://ruip.tv/3605/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Music Box Russian" group-title="Музыкальные" tvg-name="Music Box Russian",Music Box Russian
+http://ruip.tv/8131/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Musicbox" group-title="Музыкальные" tvg-name="Musicbox",Musicbox
+http://ruip.tv/9482/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" group-title="Познавательные" tvg-name="Nat Geo Wild HD Orig",Nat Geo Wild HD Orig
+http://ruip.tv/6822/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" group-title="Познавательные" tvg-name="Nat Geo Wild HD",Nat Geo Wild HD
+http://ruip.tv/7501/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Nat Geo Wild" group-title="Познавательные" tvg-name="Nat Geo Wild",Nat Geo Wild
+http://ruip.tv/9038/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="Познавательные" tvg-name="National Geographic HD Orig",National Geographic HD Orig
+http://ruip.tv/3999/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="Познавательные" tvg-name="National Geographic HD",National Geographic HD
+http://ruip.tv/4998/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="National Geographic" group-title="Познавательные" tvg-name="National Geographic",National Geographic
+http://ruip.tv/5938/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="NewsNetwork" group-title="Украина" tvg-name="NewsNetwork",NewsNetwork
+http://ruip.tv/9142/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="NewsOne HD" group-title="Украина" tvg-name="NewsOne HD",NewsOne HD
+http://ruip.tv/6294/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="NHK World TV" group-title="Спорт" tvg-name="NHK World TV",NHK World TV
+http://ruip.tv/4102/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Nick Jr" group-title="Детские" tvg-name="Nick Jr",Nick Jr
+http://ruip.tv/3727/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Nickelodeon HD" group-title="Детские" tvg-name="Nickelodeon HD",Nickelodeon HD
+http://ruip.tv/3240/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Детские" tvg-name="Nickelodeon",Nickelodeon
+http://ruip.tv/2466/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="NIKI Junior HD" group-title="Детские" tvg-name="NIKI Junior HD",NIKI Junior HD
+http://ruip.tv/5077/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="NIKI Kids HD" group-title="Детские" tvg-name="NIKI Kids HD",NIKI Kids HD
+http://ruip.tv/8665/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="O!" group-title="Детские" tvg-name="O!",O!
+http://ruip.tv/4299/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="O2TV HD" group-title="Музыкальные" tvg-name="O2TV HD",O2TV HD
+http://ruip.tv/6802/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="OBOZ TV HD" group-title="Украина" tvg-name="OBOZ TV HD",OBOZ TV HD
+http://ruip.tv/4917/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="OTV" group-title="Музыкальные" tvg-name="OTV",OTV
+http://ruip.tv/4787/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Outdoor Channel" group-title="Мужской Клуб" tvg-name="Outdoor Channel",Outdoor Channel
+http://ruip.tv/1496/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Paramount Channel HD" group-title="Кино" tvg-name="Paramount Channel HD",Paramount Channel HD
+http://ruip.tv/9462/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Paramount Channel" group-title="Кино" tvg-name="Paramount Channel",Paramount Channel
+http://ruip.tv/6956/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Paramount Comedy HD" group-title="Кино" tvg-name="Paramount Comedy HD",Paramount Comedy HD
+http://ruip.tv/4957/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="RT Doc" group-title="Новостные" tvg-name="RT Doc",RT Doc
+http://ruip.tv/9349/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="RT HD" group-title="Россия" tvg-name="RT HD",RT HD
+http://ruip.tv/6969/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="RTG HD" group-title="Познавательные" tvg-name="RTG HD",RTG HD
+http://ruip.tv/1636/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="RTVi" group-title="Россия" tvg-name="RTVi",RTVi
+http://ruip.tv/5498/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="RU.TV" group-title="Музыкальные" tvg-name="RU.TV",RU.TV
+http://ruip.tv/5778/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Russian Extreme Ultra" group-title="Спорт" tvg-name="Russian Extreme Ultra",Russian Extreme Ultra
+http://ruip.tv/3146/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="SETANTA SPORTS HD" group-title="Спорт" tvg-name="SETANTA SPORTS HD",SETANTA SPORTS HD
+http://ruip.tv/4652/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="SETANTA SPORTS+ HD" group-title="Спорт" tvg-name="SETANTA SPORTS+ HD",SETANTA SPORTS+ HD
+http://ruip.tv/1931/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Super Tennis HD" group-title="Спорт" tvg-name="Super Tennis HD",Super Tennis HD
+http://ruip.tv/6107/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Shant AM" group-title="Армения" tvg-name="Shant AM",Shant AM
+http://ruip.tv/7658/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Shop'n'Show" group-title="Россия" tvg-name="Shop&Show",Shop&Show
+http://ruip.tv/9106/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Shot TV" group-title="Кино" tvg-name="Shot TV",Shot TV
+http://ruip.tv/2829/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Sony channel" group-title="Кино" tvg-name="Sony channel",Sony channel
+http://ruip.tv/4830/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Sony Sci-Fi" group-title="Кино" tvg-name="Sony Sci-Fi",Sony Sci-Fi
+http://ruip.tv/5009/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Sony Turbo" group-title="Кино" tvg-name="Sony Turbo",Sony Turbo
+http://ruip.tv/1490/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Spike" group-title="Кино" tvg-name="Spike",Spike
+http://ruip.tv/5914/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Болт HD Россия" group-title="Кино" tvg-name="Болт HD Россия",Болт HD Россия
+http://ruip.tv/1382/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Star Cinema HD" group-title="Кино" tvg-name="Star Cinema HD",Star Cinema HD
+http://ruip.tv/5109/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Star Family HD" group-title="Кино" tvg-name="Star Family HD",Star Family HD
+http://ruip.tv/8048/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TiJi" group-title="Детские" tvg-name="TiJi",TiJi
+http://ruip.tv/7521/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TLC" group-title="Познавательные" tvg-name="TLC",TLC
+http://ruip.tv/9427/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TLC HD" group-title="Познавательные" tvg-name="TLC HD",TLC HD
+http://ruip.tv/9012/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Travel Channel HD" group-title="Познавательные" tvg-name="Travel Channel HD",Travel Channel HD
+http://ruip.tv/5730/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Travel+Adventure HD" group-title="Познавательные" tvg-name="Travel+Adventure HD",Travel+Adventure HD
+http://ruip.tv/4485/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TV 1000" group-title="Кино" tvg-name="TV 1000",TV 1000
+http://ruip.tv/1411/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TV 1000 Premium HD" group-title="Кино" tvg-name="TV 1000 Premium HD",TV 1000 Premium HD
+http://ruip.tv/3127/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TV XXI" group-title="Кино" tvg-name="TV XXI",TV XXI
+http://ruip.tv/3043/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TV1000 Action" group-title="Кино" tvg-name="TV1000 Action",TV1000 Action
+http://ruip.tv/9080/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TV1000 Русское кино" group-title="Кино" tvg-name="TV1000 Русское кино",TV1000 Русское кино
+http://ruip.tv/1502/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TV3 HD LV" group-title="Латвия" tvg-name="TV3 HD LV",TV3 HD LV
+http://ruip.tv/7524/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TV3 LT" group-title="Литва" tvg-name="TV3 LT",TV3 LT
+http://ruip.tv/2255/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="TVPlay Sports HD" group-title="Спорт" tvg-name="TVPlay Sports HD",TVPlay Sports HD
+http://ruip.tv/7729/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="UFC ТВ HD" group-title="Спорт" tvg-name="UFC ТВ HD",UFC ТВ HD
+http://ruip.tv/9546/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Ultra Cinema 4K" group-title="Кино" tvg-name="Ultra Cinema 4K",Ultra Cinema 4K
+http://ruip.tv/6870/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="VH1 Classic" group-title="Музыкальные" tvg-name="VH1 Classic",VH1 Classic
+http://ruip.tv/1635/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="VH1 Europe" group-title="Музыкальные" tvg-name="VH1 Europe",VH1 Europe
+http://ruip.tv/8870/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Viasat Explore HD" group-title="Познавательные" tvg-name="Viasat Explore HD",Viasat Explore HD
+http://ruip.tv/3139/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Viasat History HD" group-title="Познавательные" tvg-name="Viasat History HD",Viasat History HD
+http://ruip.tv/4637/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Viasat Nature/History HD" group-title="Познавательные" tvg-name="Viasat Nature/History HD",Viasat Nature/History HD
+http://ruip.tv/8772/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Viasat Nature HD" group-title="Познавательные" tvg-name="Viasat Nature HD",Viasat Nature HD
+http://ruip.tv/5532/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Viasat Sport HD" group-title="Спорт" tvg-name="Viasat Sport HD",Viasat Sport HD
+http://ruip.tv/1072/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Viasat Sport HD Orig" group-title="Спорт" tvg-name="Viasat Sport HD Orig",Viasat Sport HD Orig
+http://ruip.tv/2453/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Viasat Sport" group-title="Спорт" tvg-name="Viasat Sport",Viasat Sport
+http://ruip.tv/2839/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="VIP Comedy" group-title="Кино" tvg-name="VIP Comedy",VIP Comedy
+http://ruip.tv/2903/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="VIP Megahit" group-title="Кино" tvg-name="VIP Megahit",VIP Megahit
+http://ruip.tv/8448/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="VIP Premiere" group-title="Кино" tvg-name="VIP Premiere",VIP Premiere
+http://ruip.tv/8785/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ViP Serial" group-title="Кино" tvg-name="ViP Serial",ViP Serial
+http://ruip.tv/1514/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Xsport" group-title="Спорт" tvg-name="Xsport",Xsport
+http://ruip.tv/1385/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Xsport HD" group-title="Спорт" tvg-name="Xsport HD",Xsport HD
+http://ruip.tv/5019/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Zee TV" group-title="Кино" tvg-name="Zee TV",Zee TV
+http://ruip.tv/7669/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Авто 24" group-title="Мужской Клуб" tvg-name="Авто 24",Авто 24
+http://ruip.tv/8624/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Авто HD" group-title="Мужской Клуб" tvg-name="Авто HD",Авто HD
+http://ruip.tv/2339/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Беларусь 1 HD" group-title="Беларусь" tvg-name="Беларусь 1 HD",Беларусь 1 HD
+http://ruip.tv/7574/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Беларусь 2 HD" group-title="Беларусь" tvg-name="Беларусь 2 HD",Беларусь 2 HD
+http://ruip.tv/6512/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Беларусь 24" group-title="Беларусь" tvg-name="Беларусь 24",Беларусь 24
+http://ruip.tv/5581/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Беларусь 3 HD" group-title="Беларусь" tvg-name="Беларусь 3 HD",Беларусь 3 HD
+http://ruip.tv/8020/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Беларусь 5 HD" group-title="Беларусь" tvg-name="Беларусь 5 HD",Беларусь 5 HD
+http://ruip.tv/5813/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Бобер" group-title="Домашний Клуб" tvg-name="Бобер",Бобер
+http://ruip.tv/5063/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Бокс ТВ" group-title="Спорт" tvg-name="Бокс ТВ",Бокс ТВ
+http://ruip.tv/9550/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Большая Азия HD" group-title="Познавательные" tvg-name="Большая Азия HD",Большая Азия HD
+http://ruip.tv/6657/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="В гостях у сказки" group-title="Детские" tvg-name="В гостях у сказки",В гостях у сказки
+http://ruip.tv/9375/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="В мире животных HD" group-title="Познавательные" tvg-name="В мире животных HD",В мире животных HD
+http://ruip.tv/3907/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Вопросы и ответы" group-title="Россия" tvg-name="Вопросы и ответы",Вопросы и ответы
+http://ruip.tv/8132/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Время" group-title="Россия" tvg-name="Время",Время
+http://ruip.tv/3482/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Громадське" group-title="Украина" tvg-name="Громадське",Громадське
+http://ruip.tv/4097/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Дача" group-title="Домашний Клуб" tvg-name="Дача",Дача
+http://ruip.tv/5030/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Детский" group-title="Детские" tvg-name="Детский",Детский
+http://ruip.tv/5438/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Детский мир" group-title="Детские" tvg-name="Детский мир",Детский мир
+http://ruip.tv/9295/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Диалоги о рыбалке HD" group-title="Мужской Клуб" tvg-name="Диалоги о рыбалке HD",Диалоги о рыбалке HD
+http://ruip.tv/5891/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Дикая Охота HD" group-title="Мужской Клуб" tvg-name="Дикая Охота HD",Дикая Охота HD
+http://ruip.tv/9212/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Дикая Рыбалка HD" group-title="Мужской Клуб" tvg-name="Дикая Рыбалка HD",Дикая Рыбалка HD
+http://ruip.tv/9250/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Дикий" group-title="Мужской Клуб" tvg-name="Дикий",Дикий
+http://ruip.tv/2503/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Дождь" group-title="Новостные" tvg-name="Дождь",Дождь
+http://ruip.tv/1238/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Дождь HD" group-title="Новостные" tvg-name="Дождь HD",Дождь HD
+http://ruip.tv/7702/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Доктор" group-title="Домашний Клуб" tvg-name="Доктор",Доктор
+http://ruip.tv/9022/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Дом Кино" group-title="Кино" tvg-name="Дом Кино",Дом Кино
+http://ruip.tv/2851/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Дом кино Премиум HD" group-title="Кино" tvg-name="Дом кино Премиум HD",Дом кино Премиум HD
+http://ruip.tv/6799/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Дорама" group-title="Кино" tvg-name="Дорама",Дорама
+http://ruip.tv/2233/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Драйв" group-title="Мужской Клуб" tvg-name="Драйв",Драйв
+http://ruip.tv/5603/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Еврокино" group-title="Кино" tvg-name="Еврокино",Еврокино
+http://ruip.tv/5240/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Еда" group-title="Домашний Клуб" tvg-name="Еда",Еда
+http://ruip.tv/2048/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ЕДА Премиум HD" group-title="Домашний Клуб" tvg-name="ЕДА Премиум HD",ЕДА Премиум HD
+http://ruip.tv/9940/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Жар птица" group-title="Россия" tvg-name="Жар птица",Жар птица
+http://ruip.tv/4396/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ЖАРА" group-title="Музыкальные" tvg-name="ЖАРА",ЖАРА
+http://ruip.tv/4248/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Живая планета" group-title="Познавательные" tvg-name="Живая планета",Живая планета
+http://ruip.tv/1313/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Живая природа HD" group-title="Познавательные" tvg-name="Живая природа HD",Живая природа HD
+http://ruip.tv/7063/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ЖИВИ!" group-title="Домашний Клуб" tvg-name="ЖИВИ!",ЖИВИ!
+http://ruip.tv/9643/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Здоровое ТВ" group-title="Домашний Клуб" tvg-name="Здоровое ТВ",Здоровое ТВ
+http://ruip.tv/7715/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Известия" group-title="Новостные" tvg-name="Известия",Известия
+http://ruip.tv/1751/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Иллюзион +" group-title="Кино" tvg-name="Иллюзион +",Иллюзион +
+http://ruip.tv/9804/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Индийское Кино" group-title="Кино" tvg-name="Индийское Кино",Индийское Кино
+http://ruip.tv/6200/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="История" group-title="Познавательные" tvg-name="История",История
+http://ruip.tv/8719/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Казахстан KZ" group-title="Казахстан" tvg-name="Казахстан KZ",Казахстан KZ
+http://ruip.tv/5396/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Карусель" group-title="Детские" tvg-name="Карусель",Карусель
+http://ruip.tv/7419/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Карусель (+2)" group-title="Детские" tvg-name="Карусель (+2)",Карусель (+2)
+http://ruip.tv/5013/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Карусель (+4)" group-title="Детские" tvg-name="Карусель (+4)",Карусель (+4)
+http://ruip.tv/9641/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Карусель +6" group-title="Детские" tvg-name="Карусель +6",Карусель +6
+http://ruip.tv/4123/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Карусель +8" group-title="Детские" tvg-name="Карусель +8",Карусель +8
+http://ruip.tv/3774/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Квартал ТВ" group-title="Украина" tvg-name="Квартал ТВ",Квартал ТВ
+http://ruip.tv/1142/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="КВН ТВ" group-title="Россия" tvg-name="КВН ТВ",КВН ТВ
+http://ruip.tv/7270/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Кино UHD" group-title="Кино" tvg-name="Кино UHD",Кино UHD
+http://ruip.tv/5408/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="КИНО ТВ" group-title="Кино" tvg-name="КИНО ТВ",КИНО ТВ
+http://ruip.tv/5930/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Кинокомедия" group-title="Кино" tvg-name="Кинокомедия",Кинокомедия
+http://ruip.tv/1119/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Киномикс" group-title="Кино" tvg-name="Киномикс",Киномикс
+http://ruip.tv/2446/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Кинопоказ" group-title="Кино" tvg-name="Кинопоказ",Кинопоказ
+http://ruip.tv/9591/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Кинопремиум HD" group-title="Кино" tvg-name="Кинопремиум HD",Кинопремиум HD
+http://ruip.tv/4505/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Кинопремьера HD" group-title="Кино" tvg-name="Кинопремьера HD",Кинопремьера HD
+http://ruip.tv/7998/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="КИНОСВИДАНИЕ" group-title="Кино" tvg-name="КИНОСВИДАНИЕ",КИНОСВИДАНИЕ
+http://ruip.tv/5897/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Киносемья" group-title="Кино" tvg-name="Киносемья",Киносемья
+http://ruip.tv/9448/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Киносерия HD" group-title="Кино" tvg-name="Киносерия HD",Киносерия HD
+http://ruip.tv/2414/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Кинохит" group-title="Кино" tvg-name="Кинохит",Кинохит
+http://ruip.tv/3955/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Комедийное" group-title="Кино" tvg-name="Комедийное",Комедийное
+http://ruip.tv/4010/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Конный мир HD" group-title="Спорт" tvg-name="Конный мир HD",Конный мир HD
+http://ruip.tv/8609/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Красная линия" group-title="Россия" tvg-name="Красная линия",Красная линия
+http://ruip.tv/3638/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="КРТ" group-title="Украина" tvg-name="КРТ",КРТ
+http://ruip.tv/2488/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="КТК KZ" group-title="Казахстан" tvg-name="КТК KZ",КТК KZ
+http://ruip.tv/7174/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Кухня ТВ HD" group-title="Домашний Клуб" tvg-name="Кухня ТВ HD",Кухня ТВ HD
+http://ruip.tv/9708/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="КХЛ HD" group-title="Спорт" tvg-name="КХЛ HD",КХЛ HD
+http://ruip.tv/6328/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="КХЛ HD Orig" group-title="Спорт" tvg-name="КХЛ HD Orig",КХЛ HD Orig
+http://ruip.tv/3069/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="КХЛ ТВ" group-title="Спорт" tvg-name="КХЛ ТВ",КХЛ ТВ
+http://ruip.tv/2957/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ЛДПР live" group-title="Россия" tvg-name="ЛДПР live",ЛДПР live
+http://ruip.tv/2211/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Любимое кино" group-title="Кино" tvg-name="Любимое кино",Любимое кино
+http://ruip.tv/8314/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Ля-минор" group-title="Музыкальные" tvg-name="Ля-минор",Ля-минор
+http://ruip.tv/9843/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="М1" group-title="Музыкальные" tvg-name="М1",М1
+http://ruip.tv/7349/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="М2" group-title="Музыкальные" tvg-name="М2",М2
+http://ruip.tv/1046/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Малятко TV" group-title="Детские" tvg-name="Малятко TV",Малятко TV
+http://ruip.tv/5341/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мама" group-title="Домашний Клуб" tvg-name="Мама",Мама
+http://ruip.tv/3737/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч +2" group-title="Спорт" tvg-name="Матч +2",Матч +2
+http://ruip.tv/4866/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч +8" group-title="Спорт" tvg-name="Матч +8",Матч +8
+http://ruip.tv/4390/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч Планета" group-title="Спорт" tvg-name="Матч Планета",Матч Планета
+http://ruip.tv/2616/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч Планета" group-title="Спорт" tvg-name="Матч Планета",Матч Планета
+http://ruip.tv/8548/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="МАТЧ Премьер" group-title="Спорт" tvg-name="МАТЧ Премьер",МАТЧ Премьер
+http://ruip.tv/3863/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч Футбол 1" group-title="Спорт" tvg-name="Матч Футбол 1",Матч Футбол 1
+http://ruip.tv/7721/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч Футбол 2" group-title="Спорт" tvg-name="Матч Футбол 2",Матч Футбол 2
+http://ruip.tv/9099/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч Футбол 3" group-title="Спорт" tvg-name="Матч Футбол 3",Матч Футбол 3
+http://ruip.tv/7197/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! HD" group-title="Спорт" tvg-name="Матч! HD",Матч! HD
+http://ruip.tv/5292/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! HD Orig" group-title="Спорт" tvg-name="Матч! HD Orig",Матч! HD Orig
+http://ruip.tv/7962/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Арена HD" group-title="Спорт" tvg-name="Матч! Арена HD",Матч! Арена HD
+http://ruip.tv/3226/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="МАТЧ! Боец" group-title="Спорт" tvg-name="МАТЧ! Боец",МАТЧ! Боец
+http://ruip.tv/1403/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Игра HD" group-title="Спорт" tvg-name="Матч! Игра HD",Матч! Игра HD
+http://ruip.tv/4780/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Игра HD Orig" group-title="Спорт" tvg-name="Матч! Игра HD Orig",Матч! Игра HD Orig
+http://ruip.tv/3570/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Премьер HD Orig" group-title="Спорт" tvg-name="Матч! Премьер HD Orig",Матч! Премьер HD Orig
+http://ruip.tv/3678/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Премьер HD" group-title="Спорт" tvg-name="Матч! Премьер HD",Матч! Премьер HD
+http://ruip.tv/7517/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Страна" group-title="Спорт" tvg-name="Матч! Страна",Матч! Страна
+http://ruip.tv/7937/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! ТВ" group-title="Спорт" tvg-name="Матч! ТВ",Матч! ТВ
+http://ruip.tv/2575/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Футбол 1 HD" group-title="Спорт" tvg-name="Матч! Футбол 1 HD",Матч! Футбол 1 HD
+http://ruip.tv/2321/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Футбол 2 HD" group-title="Спорт" tvg-name="Матч! Футбол 2 HD",Матч! Футбол 2 HD
+http://ruip.tv/6026/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Футбол 3 HD" group-title="Спорт" tvg-name="Матч! Футбол 3 HD",Матч! Футбол 3 HD
+http://ruip.tv/6866/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Футбол 1 HD Orig" group-title="Спорт" tvg-name="Матч! Футбол 1 HD Orig",Матч! Футбол 1 HD Orig
+http://ruip.tv/2065/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Футбол 2 HD Orig" group-title="Спорт" tvg-name="Матч! Футбол 2 HD Orig",Матч! Футбол 2 HD Orig
+http://ruip.tv/4286/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Матч! Футбол 3 HD Orig" group-title="Спорт" tvg-name="Матч! Футбол 3 HD Orig",Матч! Футбол 3 HD Orig
+http://ruip.tv/2773/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мега" group-title="Познавательные" tvg-name="Мега",Мега
+http://ruip.tv/6269/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Морской" group-title="Познавательные" tvg-name="Морской",Морской
+http://ruip.tv/7138/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Морской HD" group-title="Познавательные" tvg-name="Морской HD",Морской HD
+http://ruip.tv/2356/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Москва 24" group-title="Новостные" tvg-name="Москва 24",Москва 24
+http://ruip.tv/7554/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Москва-доверие" group-title="Россия" tvg-name="Москва-доверие",Москва-доверие
+http://ruip.tv/6289/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Моторспорт ТВ HD" group-title="Спорт" tvg-name="Моторспорт ТВ HD",Моторспорт ТВ HD
+http://ruip.tv/2697/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Моя Планета" group-title="Познавательные" tvg-name="Моя Планета",Моя Планета
+http://ruip.tv/5359/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мужское кино" group-title="Кино" tvg-name="Мужское кино",Мужское кино
+http://ruip.tv/5595/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мужской" group-title="18+" tvg-name="Мужской",Мужской
+http://ruip.tv/9283/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Муз ТВ" group-title="Музыкальные" tvg-name="Муз ТВ",Муз ТВ
+http://ruip.tv/1806/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мульт" group-title="Детские" tvg-name="Мульт",Мульт
+http://ruip.tv/9985/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Мультимузыка" group-title="Детские" tvg-name="Мультимузыка",Мультимузыка
+http://ruip.tv/5321/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Надежда" group-title="Религиозные" tvg-name="Надежда",Надежда
+http://ruip.tv/7990/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Нано ТВ HD" group-title="Познавательные" tvg-name="Нано ТВ HD",Нано ТВ HD
+http://ruip.tv/1215/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Настоящее время HD" group-title="Новостные" tvg-name="Настоящее время HD",Настоящее время HD
+http://ruip.tv/2782/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Наука" group-title="Познавательные" tvg-name="Наука",Наука
+http://ruip.tv/1419/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Наука 2.0" group-title="Познавательные" tvg-name="Наука 2.0",Наука 2.0
+http://ruip.tv/5138/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Наш кинороман HD" group-title="Кино" tvg-name="Наш кинороман HD",Наш кинороман HD
+http://ruip.tv/4416/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Наше HD" group-title="Музыкальные" tvg-name="Наше HD",Наше HD
+http://ruip.tv/2872/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Наше крутое HD" group-title="Кино" tvg-name="Наше крутое HD",Наше крутое HD
+http://ruip.tv/6359/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Наше любимое HD" group-title="Кино" tvg-name="Наше любимое HD",Наше любимое HD
+http://ruip.tv/8420/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Наше новое кино" group-title="Кино" tvg-name="Наше новое кино",Наше новое кино
+http://ruip.tv/3259/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Наше ТВ" group-title="Музыкальные" tvg-name="Наше ТВ",Наше ТВ
+http://ruip.tv/8739/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Ностальгия" group-title="Россия" tvg-name="Ностальгия",Ностальгия
+http://ruip.tv/9997/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НСТ" group-title="Кино" tvg-name="НСТ",НСТ
+http://ruip.tv/9044/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Окино!" group-title="Россия" tvg-name="Окино!",Окино!
+http://ruip.tv/4140/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ОНТ BY" group-title="Беларусь" tvg-name="ОНТ BY",ОНТ BY
+http://ruip.tv/4096/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ОНТ HD" group-title="Беларусь" tvg-name="ОНТ HD",ОНТ HD
+http://ruip.tv/9363/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Оружие" group-title="Мужской Клуб" tvg-name="Оружие",Оружие
+http://ruip.tv/6836/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Остросюжетное HD" group-title="Кино" tvg-name="Остросюжетное HD",Остросюжетное HD
+http://ruip.tv/6659/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ОТР" group-title="Новостные" tvg-name="ОТР",ОТР
+http://ruip.tv/2345/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ОТР +8" group-title="Россия" tvg-name="ОТР +8",ОТР +8
+http://ruip.tv/5242/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Охота и рыбалка" group-title="Мужской Клуб" tvg-name="Охота и рыбалка",Охота и рыбалка
+http://ruip.tv/4351/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Охотник и рыболов HD" group-title="Мужской Клуб" tvg-name="Охотник и рыболов HD",Охотник и рыболов HD
+http://ruip.tv/5955/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Первый HD" group-title="Россия" tvg-name="Первый HD",Первый HD
+http://ruip.tv/2214/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Первый HD Orig" group-title="Россия" tvg-name="Первый HD Orig",Первый HD Orig
+http://ruip.tv/2580/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Первый Автомобильный" group-title="Мужской Клуб" tvg-name="Первый Автомобильный",Первый Автомобильный
+http://ruip.tv/7319/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Первый образовательный" group-title="Россия" tvg-name="Первый образовательный",Первый образовательный
+http://ruip.tv/9677/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Пес и ко" group-title="Домашний Клуб" tvg-name="Пес и ко",Пес и ко
+http://ruip.tv/4479/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Пиксель" group-title="Детские" tvg-name="Пиксель",Пиксель
+http://ruip.tv/5692/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Планета HD" group-title="Познавательные" tvg-name="Планета HD",Планета HD
+http://ruip.tv/7223/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ПлюсПлюс" group-title="Украина" tvg-name="ПлюсПлюс",ПлюсПлюс
+http://ruip.tv/8454/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Победа" group-title="Кино" tvg-name="Победа",Победа
+http://ruip.tv/8934/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Победа HD" group-title="Кино" tvg-name="Победа HD",Победа HD
+http://ruip.tv/2988/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Приключения HD" group-title="Познавательные" tvg-name="Приключения HD",Приключения HD
+http://ruip.tv/3242/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Просвещение" group-title="Россия" tvg-name="Просвещение",Просвещение
+http://ruip.tv/7504/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Радость Моя" group-title="Детские" tvg-name="Радость Моя",Радость Моя
+http://ruip.tv/5876/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Ретро" group-title="Россия" tvg-name="Ретро",Ретро
+http://ruip.tv/4309/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Родное кино" group-title="Кино" tvg-name="Родное кино",Родное кино
+http://ruip.tv/7965/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="РТР-Беларусь HD" group-title="Беларусь" tvg-name="РТР-Беларусь HD",РТР-Беларусь HD
+http://ruip.tv/9136/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Русская комедия" group-title="Кино" tvg-name="Русская комедия",Русская комедия
+http://ruip.tv/4167/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Русский бестселлер" group-title="Кино" tvg-name="Русский бестселлер",Русский бестселлер
+http://ruip.tv/7525/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Русский детектив" group-title="Кино" tvg-name="Русский детектив",Русский детектив
+http://ruip.tv/6590/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Русский Иллюзион" group-title="Кино" tvg-name="Русский Иллюзион",Русский Иллюзион
+http://ruip.tv/9282/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Русский роман" group-title="Кино" tvg-name="Русский роман",Русский роман
+http://ruip.tv/3574/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Русский роман" group-title="Кино" tvg-name="Русский роман",Русский роман
+http://ruip.tv/8833/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Русский экстрим HD" group-title="Спорт" tvg-name="Русский экстрим HD",Русский экстрим HD
+http://ruip.tv/8809/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Сарафан" group-title="Россия" tvg-name="Сарафан",Сарафан
+http://ruip.tv/8267/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Сварожичи" group-title="Украина" tvg-name="Сварожичи",Сварожичи
+http://ruip.tv/9567/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Седьмой канал KZ" group-title="Казахстан" tvg-name="Седьмой канал KZ",Седьмой канал KZ
+http://ruip.tv/3206/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Союз" group-title="Религиозные" tvg-name="Союз",Союз
+http://ruip.tv/8666/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Спорт 1 Украина" group-title="Спорт" tvg-name="Спорт 1 Украина",Спорт 1 Украина
+http://ruip.tv/1339/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Спорт 2 Украина" group-title="Спорт" tvg-name="Спорт 2 Украина",Спорт 2 Украина
+http://ruip.tv/1427/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Страшное HD" group-title="Кино" tvg-name="Страшное HD",Страшное HD
+http://ruip.tv/1961/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Точка отрыва" group-title="Спорт" tvg-name="Точка отрыва",Точка отрыва
+http://ruip.tv/2746/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Точка ТВ" group-title="Россия" tvg-name="Точка ТВ",Точка ТВ
+http://ruip.tv/4361/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Усадьба" group-title="Домашний Клуб" tvg-name="Усадьба",Усадьба
+http://ruip.tv/8254/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Фауна" group-title="Познавательные" tvg-name="Фауна",Фауна
+http://ruip.tv/2317/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Феникс+ Кино" group-title="Кино" tvg-name="Феникс+ Кино",Феникс+ Кино
+http://ruip.tv/6923/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Футбол 1 HD Украина Orig" group-title="Спорт" tvg-name="Футбол 1 HD Украина Orig",Футбол 1 HD Украина Orig
+http://ruip.tv/2284/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Футбол 1 Украина" group-title="Спорт" tvg-name="Футбол 1 Украина",Футбол 1 Украина
+http://ruip.tv/7439/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Футбол 1 Украина HD" group-title="Спорт" tvg-name="Футбол 1 Украина HD",Футбол 1 Украина HD
+http://ruip.tv/8521/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Футбол 2 HD Украина Orig" group-title="Спорт" tvg-name="Футбол 2 HD Украина Orig",Футбол 2 HD Украина Orig
+http://ruip.tv/7054/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Футбол 2 Украина" group-title="Спорт" tvg-name="Футбол 2 Украина",Футбол 2 Украина
+http://ruip.tv/7486/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Футбол 2 Украина HD" group-title="Спорт" tvg-name="Футбол 2 Украина HD",Футбол 2 Украина HD
+http://ruip.tv/2070/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Футбол HD" group-title="Спорт" tvg-name="Футбол HD",Футбол HD
+http://ruip.tv/2647/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Хабар KZ" group-title="Казахстан" tvg-name="Хабар KZ",Хабар KZ
+http://ruip.tv/7001/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Центральное телевидение" group-title="Россия" tvg-name="Центральное телевидение",Центральное телевидение
+http://ruip.tv/9939/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Черноморская" group-title="Украина" tvg-name="Черноморская",Черноморская
+http://ruip.tv/1612/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="ЧП.iнфо" group-title="Украина" tvg-name="ЧП.iнфо",ЧП.iнфо
+http://ruip.tv/5641/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Шансон ТВ" group-title="Музыкальные" tvg-name="Шансон ТВ",Шансон ТВ
+http://ruip.tv/5260/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Шокирующее" group-title="Кино" tvg-name="Шокирующее",Шокирующее
+http://ruip.tv/7023/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Эхо ТВ" group-title="Россия" tvg-name="Эхо ТВ",Эхо ТВ
+http://ruip.tv/9320/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Ю" group-title="Россия" tvg-name="Ю",Ю
+http://ruip.tv/4785/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Ю (+2)" group-title="Россия" tvg-name="Ю (+2)",Ю (+2)
+http://ruip.tv/5957/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Ю (+4)" group-title="Россия" tvg-name="Ю (+4)",Ю (+4)
+http://ruip.tv/8076/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Ю +6" group-title="Россия" tvg-name="Ю +6",Ю +6
+http://ruip.tv/3383/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="1+1" group-title="Украина" tvg-name="1+1",1+1
+http://ruip.tv/7016/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="1+1 International" group-title="Украина" tvg-name="1+1 International",1+1 International
+http://ruip.tv/7224/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="112 Украина HD" group-title="Украина" tvg-name="112 Украина HD",112 Украина HD
+http://ruip.tv/9340/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="112 Украина" group-title="Украина" tvg-name="112 Украина",112 Украина
+http://ruip.tv/8241/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Трофей HD" group-title="Мужской Клуб" tvg-name="Трофей HD",Трофей HD
+http://ruip.tv/9445/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Україна" group-title="Украина" tvg-name="Україна",Україна
+http://ruip.tv/7003/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Україна" group-title="Украина" tvg-name="Україна HD",Україна HD
+http://ruip.tv/5515/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Унiан" group-title="Украина" tvg-name="Унiан",Унiан
+http://ruip.tv/6532/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="1HD" group-title="Музыкальные" tvg-name="1HD",1HD
+http://ruip.tv/3533/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="2+2" group-title="Украина" tvg-name="2+2",2+2
+#EXTINF:-1 tvg-id="ТЕТ" group-title="Украина" tvg-name="ТЕТ",ТЕТ
+http://ruip.tv/3700/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="СТБ" group-title="Украина" tvg-name="СТБ",СТБ
+http://ruip.tv/4772/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Сонце" group-title="Украина" tvg-name="Сонце",Сонце
+http://ruip.tv/9412/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НТН" group-title="Украина" tvg-name="НТН",НТН
+http://ruip.tv/4544/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="НЛО TV" group-title="Украина" tvg-name="НЛО TV",НЛО TV
+http://ruip.tv/4728/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="К1" group-title="Украина" tvg-name="К1",К1
+http://ruip.tv/4625/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="К2" group-title="Украина" tvg-name="К2",К2
+http://ruip.tv/4349/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Еспресо TV" group-title="Украина" tvg-name="Еспресо TV",Еспресо TV
+http://ruip.tv/9440/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Еспресо TV HD" group-title="Украина" tvg-name="Еспресо TV HD",Еспресо TV HD
+http://ruip.tv/4231/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Етно HD" group-title="Музыкальные" tvg-name="Етно HD",Етно HD
+http://ruip.tv/7331/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Винтаж" group-title="Украина" tvg-name="Винтаж",Винтаж
+http://ruip.tv/9187/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Бiгудi" group-title="Украина" tvg-name="Бiгудi",Бiгудi
+http://ruip.tv/7141/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Zik HD" group-title="Украина" tvg-name="Zik HD",Zik HD
+http://ruip.tv/1297/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Zoom" group-title="Украина" tvg-name="Zoom",Zoom
+http://ruip.tv/8065/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Iнтер" group-title="Украина" tvg-name="Iнтер",Iнтер
+http://ruip.tv/5928/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="UA:Перший" group-title="Украина" tvg-name="UA:Перший",UA:Перший
+http://ruip.tv/3990/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="UA:Перший HD" group-title="Украина" tvg-name="UA:Перший HD",UA:Перший HD
+http://ruip.tv/9279/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Новый канал" group-title="Украина" tvg-name="Новый канал",Новый канал
+http://ruip.tv/4256/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Прямий" group-title="Украина" tvg-name="Прямий",Прямий
+http://ruip.tv/8658/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Прямий HD" group-title="Украина" tvg-name="Прямий HD",Прямий HD
+http://ruip.tv/9847/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Babes HD 18+" group-title="18+" tvg-name="Babes HD 18+",Babes HD 18+
+http://ruip.tv/4736/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Hustler HD 18+" group-title="18+" tvg-name="Hustler HD 18+",Hustler HD 18+
+http://ruip.tv/1971/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="O-la-la 18+" group-title="18+" tvg-name="O-la-la 18+",O-la-la 18+
+http://ruip.tv/8942/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Passion XXX 18+" group-title="18+" tvg-name="Passion XXX 18+",Passion XXX 18+
+http://ruip.tv/6774/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Penthouse Black 18+" group-title="18+" tvg-name="Penthouse Black 18+",Penthouse Black 18+
+http://ruip.tv/8559/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Penthouse HD 18+" group-title="18+" tvg-name="Penthouse HD 18+",Penthouse HD 18+
+http://ruip.tv/6447/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Pink O TV 18+" group-title="18+" tvg-name="Pink O TV 18+",Pink O TV 18+
+http://ruip.tv/3567/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Playboy TV" group-title="18+" tvg-name="Playboy TV",Playboy TV
+http://ruip.tv/6534/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Private HD 18+" group-title="18+" tvg-name="Private HD 18+",Private HD 18+
+http://ruip.tv/1265/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="PRIVE TV 18+" group-title="18+" tvg-name="PRIVE TV 18+",PRIVE TV 18+
+http://ruip.tv/3797/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Redlight HD 18+" group-title="18+" tvg-name="Redlight HD 18+",Redlight HD 18+
+http://ruip.tv/5504/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Vivid Red HD 18+" group-title="18+" tvg-name="Vivid Red HD 18+",Vivid Red HD 18+
+http://ruip.tv/4639/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Ню Арт HD 18+" group-title="18+" tvg-name="Ню Арт HD 18+",Ню Арт HD 18+
+http://ruip.tv/8917/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Русская ночь 18+" group-title="18+" tvg-name="Русская ночь 18+",Русская ночь 18+
+http://ruip.tv/8930/video.m3u8?token=u06qiW
+#EXTINF:-1 tvg-id="Шалун HD" group-title="18+" tvg-name="Шалун HD 18+",Шалун HD 18+
+http://ruip.tv/7065/video.m3u8?token=u06qiW
