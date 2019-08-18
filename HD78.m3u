@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, potokovoe_ru_cinema
+http://95.188.107.89/home/kino/index.m3u8
 #EXTINF:-1, TV1000 Premium HD
 http://185.93.3.83:5010/play/a012
 #EXTINF:-1, TV1000 Comedy HD
