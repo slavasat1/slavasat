@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,SHANT NEWS HD
+http://193.233.175.183:999/udp/239.191.255.152:15283
+#EXTINF:-1,SHANT  HD
+http://ygk.info/stream/NHZMNCY8QGX5VG/604/index.m3u8
+#EXTINF:-1,SHANT Premium HD
+http://193.233.175.183:999/udp/239.191.255.147:15283
+#EXTINF:-1,Shant Serial HD
+http://iptv.armenian-channel.ru:25461/live/ARMENIA/CHANNEL/54.ts
+#EXTINF:-1,SHANT Music HD
+http://193.233.175.183:999/udp/239.191.255.151:15283
+#EXTINF:-1,Արմնյուզ /Arm News HD
+http://ott-cdn.ucom.am/s11/04.m3u8
+#EXTINF:-1,Радио Свобода TV / Ազատություն TV / Azatutyun  HD
+http://ott-cdn.ucom.am/s3/04.m3u8
+#EXTINF:-1,Առաջին Ալիք / H1 HD
+http://ott-cdn.ucom.am/s1/04.m3u8
+#EXTINF:-1,H1 International HD
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1,Հ2 / H2
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:-1,Հ3 / H3
+http://ott-cdn.ucom.am/s12/04.m3u8
+#EXTINF:-1,Արմենիա TV / Armenia TV
+http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:-1,USArmenia HD
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1,ARTN  HD
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1,Կենտրոն / Kentron
+http://ott-cdn.ucom.am/s5/04.m3u8
+#EXTINF:-1,ԱՐ / AR
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:-1,Ararat TV / Արարատ / Հինգերորդ ալիք   HD
+https://live-5tvam.cdnvideo.ru/5tvam/5tvam/chunklist.m3u8?hls_proxy_host=90111261ae6e5db79070cd1887502a83
+#EXTINF:-1,Դար 21 / Dar 21
+http://ott-cdn.ucom.am/s10/04.m3u8
+#EXTINF:-1,Շողակաթ / Shoghakat
+http://ott-cdn.ucom.am/s13/04.m3u8
+#EXTINF:-1,ATV HD
+http://ott-cdn.ucom.am/s8/04.m3u8
+#EXTINF:-1,Ֆիլմզոն / Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1,Կինոման / Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1,Թավա TV / Tava TV ATV
+http://ott-cdn.ucom.am/s53/04.m3u8
+#EXTINF:-1,Հայ TV / Hay TV ATV
+http://ott-cdn.ucom.am/s73/04.m3u8
+#EXTINF:-1,Քոմեդի / Comedy
+http://ott-cdn.ucom.am/s32/04.m3u8
+#EXTINF:-1,TBN Armenia /HD
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
+#EXTINF:-1,Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/amga/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Horizon TV / Armenia
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1,Երկիր Մեդիա  / Erkir Media
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:-1,Հայ կինո / Hay Kino
+http://ott-cdn.ucom.am/s22/04.m3u8
+#EXTINF:-1,Ջան TV / Jan TV
+http://ott-cdn.ucom.am/s42/04.m3u8
+#EXTINF:-1,Տունտունիկ  / Tun Tunik
+http://ott-cdn.ucom.am/s46/04.m3u8
+#EXTINF:-1,Սինեման / Cineman
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:-1,ԽաղԱլիք  / Bazmoc ATV
+http://ott-cdn.ucom.am/s74/04.m3u8
+#EXTINF:-1,USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1,U!Premium Armenia
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:-1,Luys
+http://luyse.mediatriple.net/luystv/luystv1/Playlist.m3u8
+#EXTINF:-1,PanARMENIAN  /HD
+http://37.221.175.40:8082/Panarm/tracks-v2a1/mono.m3u8
+#EXTINF:-1,PanArmenian
+http://37.221.175.40:8082/Panarm/tracks-v3a1/mono.m3u8
+#EXTINF:-1,RADIOVAN
+https://stream.radiovan.fm/stream/index.m3u8
