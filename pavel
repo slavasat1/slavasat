@@ -1,0 +1,1157 @@
+#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz"
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pervy" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/70.jpg",Первый
+http://cdn.ottg.tv/9195/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pervy" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Первый HD
+http://cdn.ottg.tv/2214/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pervy-pl6" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/75.jpg",Первый +6
+http://cdn.ottg.tv/8664/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pervy-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Первый +2
+http://cdn.ottg.tv/9429/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pervy-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Первый +4
+http://cdn.ottg.tv/9664/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pervy-pl8" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Первый +8
+http://cdn.ottg.tv/7295/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rossia1" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия 1
+http://cdn.ottg.tv/9226/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rossia1" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия HD
+http://cdn.ottg.tv/5963/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rossia1-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия 1 +2
+http://cdn.ottg.tv/4936/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rossia1-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия 1 +4
+http://cdn.ottg.tv/5445/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rossia1-pl6" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия 1 +6
+http://cdn.ottg.tv/5764/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rossia1-pl8" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия 1 +8
+http://cdn.ottg.tv/1503/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ
+http://cdn.ottg.tv/9413/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ +2
+http://cdn.ottg.tv/8004/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ HD
+http://cdn.ottg.tv/8711/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ +4
+http://cdn.ottg.tv/7454/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ +6
+http://cdn.ottg.tv/5040/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ +8
+http://cdn.ottg.tv/4239/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv-mir" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ Мир
+http://cdn.ottg.tv/7870/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tvcentr" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТВЦ
+http://cdn.ottg.tv/7846/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tvcentr-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТВЦ +2
+http://cdn.ottg.tv/5366/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tvcentr-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТВЦ +4
+http://cdn.ottg.tv/8991/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tvcentr-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТВЦ +6
+http://cdn.ottg.tv/6262/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="5kanal-ru" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Пятый канал
+http://cdn.ottg.tv/4750/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="5kanal-ru-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Пятый канал +2
+http://cdn.ottg.tv/4447/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="5kanal-ru-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Пятый канал +4
+http://cdn.ottg.tv/8598/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="5kanal-ru-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Пятый канал +6
+http://cdn.ottg.tv/5413/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ
+http://cdn.ottg.tv/2468/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ HD
+http://cdn.ottg.tv/1337/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ +2
+http://cdn.ottg.tv/7754/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ +4
+http://cdn.ottg.tv/8594/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ +6
+http://cdn.ottg.tv/8960/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sts" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",СТС
+http://cdn.ottg.tv/9716/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sts-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",СТС +2
+http://cdn.ottg.tv/6885/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sts-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",СТС +4
+http://cdn.ottg.tv/8715/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rentv-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Рен ТВ +2
+http://cdn.ottg.tv/7175/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rentv-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Рен ТВ +6
+http://cdn.ottg.tv/2741/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mir" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Мир ТВ
+http://cdn.ottg.tv/2810/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mir-premium" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Мир HD
+http://cdn.ottg.tv/7640/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mir-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Мир +2
+http://cdn.ottg.tv/9635/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mir-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Мир +6
+http://cdn.ottg.tv/7562/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="otr" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ОТР
+http://cdn.ottg.tv/2345/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zvezda" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Звезда
+http://cdn.ottg.tv/7796/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zvezda-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Звезда +2
+http://cdn.ottg.tv/8214/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sts-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",СТС +6
+http://cdn.ottg.tv/9013/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sts-love" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",СТС Love
+http://cdn.ottg.tv/6621/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rentv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Рен ТВ HD
+http://cdn.ottg.tv/8082/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zvezda-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Звезда +4
+http://cdn.ottg.tv/1766/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zvezda-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Звезда +6
+http://cdn.ottg.tv/5202/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="che" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Че
+http://cdn.ottg.tv/8708/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="che-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Че +4
+http://cdn.ottg.tv/2519/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tv3-ru" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТВ3
+http://cdn.ottg.tv/7473/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tv3-ru-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТВ 3 +2
+http://cdn.ottg.tv/1500/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tv3-ru-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТВ3 +4
+http://cdn.ottg.tv/4946/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tv3-ru-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТВ3 +6
+http://cdn.ottg.tv/9894/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="piatnica" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Пятница
+http://cdn.ottg.tv/3755/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="piatnica" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Пятница HD
+http://cdn.ottg.tv/9657/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="piatnica-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Пятница +2
+http://cdn.ottg.tv/9345/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="piatnica-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Пятница +6
+http://cdn.ottg.tv/6808/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rtvi" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",RTVi
+http://cdn.ottg.tv/5498/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="super" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Супер
+http://cdn.ottg.tv/3573/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="super-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Супер +2
+http://cdn.ottg.tv/9051/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="super-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Супер +4
+http://cdn.ottg.tv/1922/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="super-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Супер +6
+http://cdn.ottg.tv/1823/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="domashny" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Домашний
+http://cdn.ottg.tv/9505/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="galaxy-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Galaxy HD
+http://cdn.ottg.tv/2753/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="domashny-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Домашний +2
+http://cdn.ottg.tv/6944/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="domashny-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Домашний +6
+http://cdn.ottg.tv/3760/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kultura" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия К
+http://cdn.ottg.tv/4539/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия К +2
+http://cdn.ottg.tv/5393/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия К +4
+http://cdn.ottg.tv/4032/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия К +6
+http://cdn.ottg.tv/6780/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rtr-planeta-eu" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Планета РТР
+http://cdn.ottg.tv/5330/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="8kanal-ru" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",8 канал
+http://cdn.ottg.tv/2455/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="vremia" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Время
+http://cdn.ottg.tv/3482/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nostalgia" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Ностальгия
+http://cdn.ottg.tv/9997/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="yu" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Ю
+http://cdn.ottg.tv/4785/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="yu-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Ю +2
+http://cdn.ottg.tv/5957/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="yu-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Ю +4
+http://cdn.ottg.tv/8076/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="yu-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Ю +6
+http://cdn.ottg.tv/3383/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="2na2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",2х2
+http://cdn.ottg.tv/2935/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="2na2-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",2х2 +2
+http://cdn.ottg.tv/5200/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="2na2-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",2х2 +4
+http://cdn.ottg.tv/8806/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="2na2-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",2x2 +6
+http://cdn.ottg.tv/8548/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ4
+http://cdn.ottg.tv/4848/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt4-pl2" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ4 +2
+http://cdn.ottg.tv/5288/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt4-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ4 +4
+http://cdn.ottg.tv/5156/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt4-pl7" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ4 +6
+http://cdn.ottg.tv/9300/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kvn-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",КВН ТВ
+http://cdn.ottg.tv/7270/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sarafan" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Сарафан
+http://cdn.ottg.tv/8267/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="voprosy-i-otvety" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Вопросы и ответы
+http://cdn.ottg.tv/8132/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="1plus1" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",1+1
+http://cdn.ottg.tv/7016/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ukraina" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Украина
+http://cdn.ottg.tv/7003/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ictv-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",ICTV
+http://cdn.ottg.tv/5886/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="inter-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Интер
+http://cdn.ottg.tv/5928/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="stb-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",СТБ
+http://cdn.ottg.tv/4772/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="2plus2" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",2+2
+http://cdn.ottg.tv/7476/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="novy-kanal-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Новый канал
+http://cdn.ottg.tv/4256/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="k1-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",К1
+http://cdn.ottg.tv/4625/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="k2-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",К2
+http://cdn.ottg.tv/4349/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tet-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",ТЕТ
+http://cdn.ottg.tv/3700/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntn-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",НТН
+http://cdn.ottg.tv/4544/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Channel 9 IL
+http://cdn.ottg.tv/6998/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Channel 11 IL
+http://cdn.ottg.tv/8247/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Channel 12 IL
+http://cdn.ottg.tv/5773/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Channel 13 IL
+http://cdn.ottg.tv/6635/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="discovery-ru" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Discovery Channel HD
+http://cdn.ottg.tv/8979/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="discovery-science" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Discovery Science HD
+http://cdn.ottg.tv/6482/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="dtx" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Discovery Turbo Xtra HD
+http://cdn.ottg.tv/7612/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="history-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",History HD
+http://cdn.ottg.tv/2267/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="h2" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",History2 HD
+http://cdn.ottg.tv/1940/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="id-xtra-ru" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Investigation Discovery Xtra HD
+http://cdn.ottg.tv/5885/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tlc" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",TLC HD
+http://cdn.ottg.tv/9012/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="planeta-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Планета HD
+http://cdn.ottg.tv/7223/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eureka-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Эврика HD
+http://cdn.ottg.tv/3269/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="national-geographic" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",National Geographic HD
+http://cdn.ottg.tv/4998/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nauka-20" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Наука 2.0
+http://cdn.ottg.tv/5138/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nano-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Нано HD
+http://cdn.ottg.tv/1215/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="galaxy-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Galaxy
+http://cdn.ottg.tv/6157/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="texno-24" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Техно 24
+http://cdn.ottg.tv/2534/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="oruzhie" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Оружие
+http://cdn.ottg.tv/6836/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nat-geo-wild" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Nat Geo Wild HD
+http://cdn.ottg.tv/7501/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="animal-planet" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Animal Planet HD
+http://cdn.ottg.tv/3507/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="v-mire-zhivotnyx-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",В мире животных HD
+http://cdn.ottg.tv/3907/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rtd-ru" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",RTД HD
+http://cdn.ottg.tv/9349/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mama" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Мама
+http://cdn.ottg.tv/3737/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="doktor" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Доктор
+http://cdn.ottg.tv/9022/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tvoy-dom" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Твой Дом HD
+http://cdn.ottg.tv/1715/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="da-vinci" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Da Vinci
+http://cdn.ottg.tv/9395/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="viasat-explore" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Viasat Explore HD
+http://cdn.ottg.tv/3139/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="viasat-nature-history-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Viasat Nature/History HD
+http://cdn.ottg.tv/8772/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="viasat-history" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Viasat History HD
+http://cdn.ottg.tv/4637/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="istoria" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",История
+http://cdn.ottg.tv/8719/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="365-dnej" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",365 дней ТВ
+http://cdn.ottg.tv/2331/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="moya-planeta" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Моя Планета
+http://cdn.ottg.tv/5359/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rtg-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",RTG HD
+http://cdn.ottg.tv/1636/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="prikluchenia-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Приключения HD
+http://cdn.ottg.tv/3242/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="travel-channel" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Travel Channel HD
+http://cdn.ottg.tv/5730/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="travel-adventure" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Travel+Adventure HD
+http://cdn.ottg.tv/4485/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="fine-living" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Fine Living HD
+http://cdn.ottg.tv/6252/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="oxota-i-rybalka" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Охота и рыбалка
+http://cdn.ottg.tv/4351/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="oxotnik-i-rybolov-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Охотник и рыболов HD
+http://cdn.ottg.tv/5955/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="dialogi-o-rybalke" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Диалоги о рыбалке HD
+http://cdn.ottg.tv/5891/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="dikaya-oxota-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Дикая Охота HD
+http://cdn.ottg.tv/9212/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="dikaya-rybalka-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Дикая Рыбалка HD
+http://cdn.ottg.tv/9250/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="outdoor-channel" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Outdoor channel
+http://cdn.ottg.tv/1496/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zhivaya-priroda" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Живая природа HD
+http://cdn.ottg.tv/7063/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zhivaya-planeta" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Живая планета
+http://cdn.ottg.tv/1313/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kuxnia-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Кухня ТВ HD
+http://cdn.ottg.tv/9708/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eda-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Еда Премиум HD
+http://cdn.ottg.tv/9940/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="food-network" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Food Network HD
+http://cdn.ottg.tv/4922/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="avto24" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Авто 24
+http://cdn.ottg.tv/8624/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="avto-plus" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Авто плюс HD
+http://cdn.ottg.tv/2339/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="morskoy" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Морской
+http://cdn.ottg.tv/7138/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="hd-life" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",HDL HD
+http://cdn.ottg.tv/6256/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinopremiera-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Кинопремьера HD
+http://cdn.ottg.tv/7998/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ostrosiuzhetnoe-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Остросюжетное HD
+http://cdn.ottg.tv/6659/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinopremium-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Премиальное HD
+http://cdn.ottg.tv/4505/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nash-detektiv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Наше крутое HD
+http://cdn.ottg.tv/6359/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nash-kinoroman" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Наш Кинороман HD
+http://cdn.ottg.tv/4416/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinokomedia" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Кинокомедия HD
+http://cdn.ottg.tv/1119/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinosemiya" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Киносемья
+http://cdn.ottg.tv/9448/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinosvidanie" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Киносвидание
+http://cdn.ottg.tv/5897/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinoxit" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Кинохит
+http://cdn.ottg.tv/3955/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinomiks" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Киномикс
+http://cdn.ottg.tv/2446/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nashe-novoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Наше новое кино HD
+http://cdn.ottg.tv/3259/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rodnoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Родное кино
+http://cdn.ottg.tv/7965/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="indiyskoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Индийское кино
+http://cdn.ottg.tv/6200/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tv1000" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",TV 1000 HD
+http://cdn.ottg.tv/1411/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tv1000-action" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",TV 1000 Action HD
+http://cdn.ottg.tv/9080/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tv1000-russkoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",TV 1000 Русское кино HD
+http://cdn.ottg.tv/1502/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="vip-premiere" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",ViP Premiere HD
+http://cdn.ottg.tv/8785/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="vip-megahit" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",ViP Megahit HD
+http://cdn.ottg.tv/8448/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="vip-comedy" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",ViP Comedy HD
+http://cdn.ottg.tv/2903/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="vip-serial" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",ViP Serial HD
+http://cdn.ottg.tv/1514/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinopokaz-hd1" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Шокирующее HD
+http://cdn.ottg.tv/7023/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinopokaz-hd2" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Комедийное HD
+http://cdn.ottg.tv/4010/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="amedia-premium" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Amedia Premium HD
+http://cdn.ottg.tv/3610/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="amedia1" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Amedia 1 HD
+http://cdn.ottg.tv/7386/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="amedia-hit" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Amedia Hit HD
+http://cdn.ottg.tv/4546/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="russky-roman" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Русский роман HD
+http://cdn.ottg.tv/3574/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="russky-illuzion" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Русский иллюзион HD
+http://cdn.ottg.tv/9282/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="russky-detektiv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Русский детектив
+http://cdn.ottg.tv/6590/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="russky-bestseller" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Русский бестселлер
+http://cdn.ottg.tv/7525/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="russkaya-komedia" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Русская комедия
+http://cdn.ottg.tv/4167/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pobeda" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Победа HD
+http://cdn.ottg.tv/2988/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="fox" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Fox HD
+http://cdn.ottg.tv/9764/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="foxlife" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Fox Life HD
+http://cdn.ottg.tv/3108/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sony-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Sony Channel HD
+http://cdn.ottg.tv/4830/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sony-scifi" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Sony Sci-Fi
+http://cdn.ottg.tv/5009/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sony-turbo" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Sony Turbo
+http://cdn.ottg.tv/1490/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kino-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",КиноТВ HD
+http://cdn.ottg.tv/5930/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinopokaz" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Кинопоказ
+http://cdn.ottg.tv/9591/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="cinema-ru" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Синема
+http://cdn.ottg.tv/5974/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nst" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",НСТ
+http://cdn.ottg.tv/9044/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="strashnoe-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Страшное HD
+http://cdn.ottg.tv/1961/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tvxxi" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",TV XXI Век
+http://cdn.ottg.tv/3043/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="paramount-channel" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Paramount Channel HD
+http://cdn.ottg.tv/9462/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="paramount-comedy" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Paramount Comedy HD
+http://cdn.ottg.tv/4957/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="muzhskoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Мужское кино
+http://cdn.ottg.tv/5595/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="domkino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Дом Кино
+http://cdn.ottg.tv/2851/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="domkino-premium" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Дом кино Премиум HD
+http://cdn.ottg.tv/6799/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="hollywood-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Hollywood HD
+http://cdn.ottg.tv/1996/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-igra" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Игра HD
+http://cdn.ottg.tv/4780/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-nash-sport" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Страна
+http://cdn.ottg.tv/7937/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-arena" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Арена HD
+http://cdn.ottg.tv/3226/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! HD
+http://cdn.ottg.tv/5292/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч +2
+http://cdn.ottg.tv/4866/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-football1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Футбол 1 HD
+http://cdn.ottg.tv/2321/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-football2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Футбол 2 HD
+http://cdn.ottg.tv/6026/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-football3" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Футбол 3 HD
+http://cdn.ottg.tv/6866/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-premier" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Премьер HD
+http://cdn.ottg.tv/7517/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="football1-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Футбол 1 HD Украина
+http://cdn.ottg.tv/8521/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="football2-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Футбол 2 HD Украина
+http://cdn.ottg.tv/2070/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eurosport1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Eurosport 1 HD
+http://cdn.ottg.tv/1515/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eurosport2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Eurosport 2 HD
+http://cdn.ottg.tv/1525/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eurosport-gold" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Eurosport Gold HD
+http://cdn.ottg.tv/8749/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="belarus5" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Беларусь 5 HD
+http://cdn.ottg.tv/5813/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kazsport" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Kazsport
+http://cdn.ottg.tv/9686/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="viasat-sport" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Viasat Sport HD
+http://cdn.ottg.tv/1072/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="extreme-sports" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Extreme Sports
+http://cdn.ottg.tv/1285/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="setanta-sports" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Setanta Sports HD
+http://cdn.ottg.tv/4652/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="setanta-sports-plus" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Setanta Sports+ HD
+http://cdn.ottg.tv/1931/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-boets" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Боец
+http://cdn.ottg.tv/1403/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="box-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Бокс ТВ
+http://cdn.ottg.tv/9550/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",UFC ТВ HD
+http://cdn.ottg.tv/9546/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kxl" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",КХЛ ТВ
+http://cdn.ottg.tv/2957/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kxl-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",КХЛ HD
+http://cdn.ottg.tv/6328/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="russky-ekstrim" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Русский экстрим HD
+http://cdn.ottg.tv/8809/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="detsky" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Детский HD
+http://cdn.ottg.tv/5438/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nickelodeon-hd" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Nickelodeon HD
+http://cdn.ottg.tv/3240/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tlum-hd" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Тлум HD
+http://cdn.ottg.tv/7952/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="disney" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Канал Disney
+http://cdn.ottg.tv/7528/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="disney-pl7" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Канал Disney +6
+http://cdn.ottg.tv/3552/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="karusel" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Карусель
+http://cdn.ottg.tv/7419/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="karusel-pl3" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Карусель +2
+http://cdn.ottg.tv/5013/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Карусель +4
+http://cdn.ottg.tv/9641/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="karusel-pl7" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Карусель +6
+http://cdn.ottg.tv/4123/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sts-kids-hd" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",СТС Kids HD
+http://cdn.ottg.tv/9954/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tiji" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",TiJi
+http://cdn.ottg.tv/7521/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mult" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Мульт
+http://cdn.ottg.tv/9985/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="multimuzyka" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Мультимузыка
+http://cdn.ottg.tv/5321/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="jimjam" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",JimJam
+http://cdn.ottg.tv/9763/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="cartoon-network" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Cartoon Network HD
+http://cdn.ottg.tv/5635/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nick-jr" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Nick Jr
+http://cdn.ottg.tv/3727/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="v-gostiax-u-skazki" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",В гостях у сказки
+http://cdn.ottg.tv/9375/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="o_" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Канал О!
+http://cdn.ottg.tv/4299/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="boomerang" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Boomerang
+http://cdn.ottg.tv/2275/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="radost-moya" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Радость Моя
+http://cdn.ottg.tv/5876/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ani" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Ani
+http://cdn.ottg.tv/9170/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="detsky-mir" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Детский мир
+http://cdn.ottg.tv/9295/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="gulli-girl" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Gulli
+http://cdn.ottg.tv/3723/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="baby-tv" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Baby TV
+http://cdn.ottg.tv/7114/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="1hd" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",1HD Music
+http://cdn.ottg.tv/3533/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="m1-ua" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",М1
+http://cdn.ottg.tv/7349/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="muztv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Муз ТВ
+http://cdn.ottg.tv/1806/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bridge-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Bridge TV
+http://cdn.ottg.tv/1774/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bridge-hd" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Bridge HD
+http://cdn.ottg.tv/3413/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bridge-tv-classic" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Bridge TV Classic
+http://cdn.ottg.tv/9334/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bridge-tv-dance" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Bridge TV Hits
+http://cdn.ottg.tv/3704/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bridge-tv-ruxit" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Bridge TV Русский хит
+http://cdn.ottg.tv/5747/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="europa-plus-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Europa Plus TV
+http://cdn.ottg.tv/9995/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ru-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",RU TV
+http://cdn.ottg.tv/5778/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mtv-russia" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",MTV HD
+http://cdn.ottg.tv/9621/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mtv-dance" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",MTV Dance
+http://cdn.ottg.tv/9197/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mtv-rocks" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",MTV Rocks
+http://cdn.ottg.tv/2922/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="vh1-classic" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",VH1 Classic
+http://cdn.ottg.tv/1635/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",VH1 European
+http://cdn.ottg.tv/8870/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mcm-top" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",MCM TOP
+http://cdn.ottg.tv/1148/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt-music" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ Music
+http://cdn.ottg.tv/4885/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mezzo-live-hd" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Mezzo Live HD
+http://cdn.ottg.tv/3203/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="iconcerts" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",iConcerts HD
+http://cdn.ottg.tv/4880/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rbk" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",РБК ТВ
+http://cdn.ottg.tv/4428/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rossia-24" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",Россия 24
+http://cdn.ottg.tv/7146/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="euronews" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",EuroNews
+http://cdn.ottg.tv/3882/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bbc" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",BBC World News Europe
+http://cdn.ottg.tv/4330/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="cnn" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",CNN
+http://cdn.ottg.tv/1797/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="moskva-24" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",Москва 24
+http://cdn.ottg.tv/7554/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="112-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",112 Украина HD
+http://cdn.ottg.tv/9340/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="russkaya-noch" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Русская ночь 18+
+http://cdn.ottg.tv/8930/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nuart-tv" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Ню Арт HD 18+
+http://cdn.ottg.tv/8917/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="shalun" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Шалун HD 18+
+http://cdn.ottg.tv/7065/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="playboy-tv" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Playboy TV 18+
+http://cdn.ottg.tv/6534/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="candy" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Candy HD 18+
+http://cdn.ottg.tv//video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Dorcel HD 18+
+http://cdn.ottg.tv/3467/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Redlight HD 18+
+http://cdn.ottg.tv/5504/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="hustler-hd" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Hustler HD 18+
+http://cdn.ottg.tv/1971/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="brazzers-tv-europe-ru" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Brazzers TV 18+
+http://cdn.ottg.tv/1143/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Penthouse Black HD 18+
+http://cdn.ottg.tv/8559/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Penthouse HD2 18+
+http://cdn.ottg.tv//video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="penthouse-hd" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Pentouse HD 18+
+http://cdn.ottg.tv/6447/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="private-tv" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Private HD 18+
+http://cdn.ottg.tv/1265/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Vivid Red HD 18+
+http://cdn.ottg.tv/4639/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",PINKoTV 18+
+http://cdn.ottg.tv/3567/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",SEXTOSENSO 18+
+http://cdn.ottg.tv//video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="barely-legal" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Barely Legal TV 18+
+http://cdn.ottg.tv/5182/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",XMUVI 18+
+http://cdn.ottg.tv//video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",PriveTV 18+
+http://cdn.ottg.tv/3797/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="passionxxx" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",PassionXXX 18+
+http://cdn.ottg.tv/6774/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="fanhd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",FAN HD
+http://cdn.ottg.tv/2006/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="fuel-tv-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",FUEL TV HD
+http://cdn.ottg.tv/5679/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="e-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",E TV
+http://cdn.ottg.tv/7865/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="football-ru" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Футбол HD
+http://cdn.ottg.tv/2647/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="usadba" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Усадьба
+http://cdn.ottg.tv/8254/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="teatr" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Театр
+http://cdn.ottg.tv/7310/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="shanson-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Шансон TB
+http://cdn.ottg.tv/5260/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="feniks-plus-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Феникс+ Кино
+http://cdn.ottg.tv/6923/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tochka-otryva" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Точка отрыва HD
+http://cdn.ottg.tv/2746/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tochka-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Точка ТВ
+http://cdn.ottg.tv/4361/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="retro-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Ретро
+http://cdn.ottg.tv/4309/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="izvestia" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",Известия
+http://cdn.ottg.tv/1751/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mir-24" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",Мир 24
+http://cdn.ottg.tv/1306/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="russia-today-hd" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",Russia Today HD
+http://cdn.ottg.tv/6969/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="dozhd" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",Дождь HD
+http://cdn.ottg.tv/7702/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Кино UHD 4k
+http://cdn.ottg.tv/5408/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Insight UHD 4k
+http://cdn.ottg.tv/7004/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="id-xtra-ru" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Investigation Discovery
+http://cdn.ottg.tv/7060/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eurosport-4k" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Eurosport 4k
+http://cdn.ottg.tv/9006/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bolt-ru" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Bolt HD
+http://cdn.ottg.tv/8597/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="amedia2" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Amedia 2 HD
+http://cdn.ottg.tv/7515/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="360-podmoskovie" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",360 HD
+http://cdn.ottg.tv/4898/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="spas" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Спас
+http://cdn.ottg.tv/2291/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="soyuz" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Союз
+http://cdn.ottg.tv/8666/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="prosveschenie" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Просвещение
+http://cdn.ottg.tv/7504/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pes-i-ko" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Пёс и Ко
+http://cdn.ottg.tv/4479/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",О-ля-ля 18+
+http://cdn.ottg.tv/8942/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Окино!
+http://cdn.ottg.tv/4140/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nashe-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Наше ТВ
+http://cdn.ottg.tv/8739/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="muzhskoy" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Мужской
+http://cdn.ottg.tv/9283/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="motorsportv-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Моторспорт ТВ HD
+http://cdn.ottg.tv/2697/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="la-minor" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Ля-минор
+http://cdn.ottg.tv/9843/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="lubimoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Любимое кино
+http://cdn.ottg.tv/8314/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Jurnal TV MD
+http://cdn.ottg.tv//video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bollywood-hd" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Bollywood HD
+http://cdn.ottg.tv/7148/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="m1global" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",M-1 Global
+http://cdn.ottg.tv/8036/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="musicbox" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Music Box Russian
+http://cdn.ottg.tv/8131/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="museum-hd" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Museum HD
+http://cdn.ottg.tv/3605/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/",Babes TV HD 18+
+http://cdn.ottg.tv/4736/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nastoyaschee-vremia" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",Настоящее время HD
+http://cdn.ottg.tv/2782/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="football1-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Футбол 1 HD Украина Orig.
+http://cdn.ottg.tv/2284/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="football2-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Футбол 2 HD Украина Orig.
+http://cdn.ottg.tv/7054/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="viasat-nature" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Viasat Nature HD
+http://cdn.ottg.tv/5532/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zhara" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Жара HD
+http://cdn.ottg.tv/4248/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zhivi" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Живи!
+http://cdn.ottg.tv/9643/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Setanta Sports UA HD
+http://cdn.ottg.tv/7662/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zhar-ptica" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Жар Птица
+http://cdn.ottg.tv/4396/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="360-news" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",360 Новости
+http://cdn.ottg.tv/3082/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Анекдот ТВ
+http://cdn.ottg.tv//video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bobior" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Бобёр
+http://cdn.ottg.tv/5063/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Большая Азия HD
+http://cdn.ottg.tv/6657/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="dikiy" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Дикий
+http://cdn.ottg.tv/2503/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="doverie" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Доверие
+http://cdn.ottg.tv/6289/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="dorama" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Дорама HD
+http://cdn.ottg.tv/2233/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="drive" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Драйв
+http://cdn.ottg.tv/5603/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evrokino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Еврокино HD
+http://cdn.ottg.tv/5240/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eda" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Еда
+http://cdn.ottg.tv/2048/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zdorovoe-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Здоровое ТВ
+http://cdn.ottg.tv/7715/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="illuzion-plus" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Иллюзион+ HD
+http://cdn.ottg.tv/9804/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="krasnaya-linia" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Красная линия
+http://cdn.ottg.tv/3638/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ldpr-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ЛДПР ТВ
+http://cdn.ottg.tv/2211/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! ТВ
+http://cdn.ottg.tv/2575/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pervy-obrazovatelny" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Первый образовательный
+http://cdn.ottg.tv/9677/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tayna" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Тайна
+http://cdn.ottg.tv/2207/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="centralnoye-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Центральное телевидение
+http://cdn.ottg.tv/9939/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="echotv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Эхо-ТВ
+http://cdn.ottg.tv/9320/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="yuvelirochka" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Ювелирочка
+http://cdn.ottg.tv/9886/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="amedia-premium" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Amedia Premium
+http://cdn.ottg.tv/7564/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="animal-planet" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Animal Planet
+http://cdn.ottg.tv/7435/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="clubbing-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Clubbing TV HD
+http://cdn.ottg.tv/7053/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="discovery-channel" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Discovery Channel
+http://cdn.ottg.tv/3721/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="discovery-science" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Discovery Science
+http://cdn.ottg.tv/9502/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="dtx" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",DTX
+http://cdn.ottg.tv/5508/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",DW-TV
+http://cdn.ottg.tv/7489/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eurosport1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Eurosport 1
+http://cdn.ottg.tv/6623/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="fashion-tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Fashion TV HD
+http://cdn.ottg.tv/1223/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="france-24" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",France 24 HD
+http://cdn.ottg.tv/9153/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="home-4k" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Home 4K
+http://cdn.ottg.tv/7533/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mtv-hits" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",MTV Hits
+http://cdn.ottg.tv/5568/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mtv-live-hd" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",MTV Live HD
+http://cdn.ottg.tv/8299/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nat-geo-wild" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Nat Geo Wild
+http://cdn.ottg.tv/9038/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="national-geographic" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",National Geographic
+http://cdn.ottg.tv/5938/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nhk-world" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",NHK WORLD-JAPAN
+http://cdn.ottg.tv/4102/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nickelodeon-ru" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Nickelodeon
+http://cdn.ottg.tv/2466/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="o2tv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",O2TV HD
+http://cdn.ottg.tv/6802/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="paramount-channel" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Paramount Channel
+http://cdn.ottg.tv/6956/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Russian Extreme Ultra
+http://cdn.ottg.tv/3146/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Russian MusicBox
+http://cdn.ottg.tv/8131/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="shop-n-show" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Shop&Show
+http://cdn.ottg.tv/9106/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="shot-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Shot TV
+http://cdn.ottg.tv/2829/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="spike" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Spike
+http://cdn.ottg.tv/5914/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="star-cinema" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Star Cinema HD UA
+http://cdn.ottg.tv/5109/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tlc" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",TLC
+http://cdn.ottg.tv/9427/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ultra-hd-cinema" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Ultra HD Cinema
+http://cdn.ottg.tv/6870/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="viasat-sport" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Viasat Sport
+http://cdn.ottg.tv/2839/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="world-fashion-channel" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Luxury World HD
+http://cdn.ottg.tv/2387/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zee-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Zee TV
+http://cdn.ottg.tv/7669/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ont-by" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",ОНТ HD BY
+http://cdn.ottg.tv/9363/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="belarus1" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Беларусь 1 HD BY
+http://cdn.ottg.tv/7574/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rtr-belarus" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",РТР HD BY
+http://cdn.ottg.tv/9136/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="belarus2" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Беларусь 2 HD BY
+http://cdn.ottg.tv/6512/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="belarus3" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Беларусь 3 HD BY
+http://cdn.ottg.tv/8020/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nlo-tv-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",НЛО ТВ
+http://cdn.ottg.tv/4728/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="discovery-hd-showcase" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Discovery Showcase HD
+http://cdn.ottg.tv/3258/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rentv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Рен ТВ
+http://cdn.ottg.tv/6401/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="konny-mir" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Конный мир HD
+http://cdn.ottg.tv/8609/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="romantichnoe" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Романтичное HD
+http://cdn.ottg.tv/7262/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nashe-lubimoe" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Любимое HD
+http://cdn.ottg.tv/8420/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mir-basketbola" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Мир баскетбола
+http://cdn.ottg.tv/3271/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv-xit" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ Хит
+http://cdn.ottg.tv/1445/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kvartal-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Квартал ТВ
+http://cdn.ottg.tv/1142/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Сварожичи
+http://cdn.ottg.tv/9567/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-football1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Футбол 1 HD Orig.
+http://cdn.ottg.tv/2065/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-football2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Футбол 2 HD Orig.
+http://cdn.ottg.tv/4286/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-football3" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Футбол 3 HD Orig.
+http://cdn.ottg.tv/2773/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-igra" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Игра HD Orig.
+http://cdn.ottg.tv/3570/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-arena" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Арена HD Orig.
+http://cdn.ottg.tv/9517/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-planeta" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Планета
+http://cdn.ottg.tv/2616/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-tv" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! HD Orig.
+http://cdn.ottg.tv/7962/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-premier" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Премьер HD Orig.
+http://cdn.ottg.tv/3678/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kxl-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",КХЛ HD Orig.
+http://cdn.ottg.tv/3069/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eurosport1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Eurosport 1 HD Orig.
+http://cdn.ottg.tv/8413/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eurosport2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Eurosport 2 HD Orig.
+http://cdn.ottg.tv/9523/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="viasat-sport-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Viasat Sport HD Orig.
+http://cdn.ottg.tv/2453/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nat-geo-wild" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Nat Geo Wild HD Orig.
+http://cdn.ottg.tv/6822/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="national-geographic" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",National Geographic HD Orig.
+http://cdn.ottg.tv/3999/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="discovery-channel" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Discovery Channel HD Orig.
+http://cdn.ottg.tv/3186/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="animal-planet" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Animal Planet HD Orig.
+http://cdn.ottg.tv/5474/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="hd-life" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",HD Life Orig.
+http://cdn.ottg.tv/5446/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="discovery-hd-showcase" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Discovery Showcase HD Orig.
+http://cdn.ottg.tv/3628/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kazakhstan" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Казахстан KZ
+http://cdn.ottg.tv/5396/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ktk-kz" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",КТК
+http://cdn.ottg.tv/7174/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="astana" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Астана ТВ
+http://cdn.ottg.tv/7893/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="7kanal-kz" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",7 канал (Казахстан)
+http://cdn.ottg.tv/3206/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Armenia TV
+http://cdn.ottg.tv/8162/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Armenia HD AM
+http://cdn.ottg.tv/6042/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Shant HD" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Shant HD
+http://cdn.ottg.tv/7658/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Atv HD AM
+http://cdn.ottg.tv/5659/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Kentron AM
+http://cdn.ottg.tv/2190/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",LNK LT
+http://cdn.ottg.tv/1753/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",BTV
+http://cdn.ottg.tv/3855/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",TV3 HD LV
+http://cdn.ottg.tv/7524/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tv3-lt" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",TV3 LT
+http://cdn.ottg.tv/2255/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="lrt-tv" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",LRT
+http://cdn.ottg.tv/3733/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ltv1" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",LTV1
+http://cdn.ottg.tv/1144/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pervy" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Первый HD Orig.
+http://cdn.ottg.tv/2580/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rossia1" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Россия 1 HD Orig.
+http://cdn.ottg.tv/2151/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ HD Orig.
+http://cdn.ottg.tv/2017/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="xabar" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Хабар
+http://cdn.ottg.tv/7001/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="eurosport2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Eurosport 2
+http://cdn.ottg.tv/6904/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="belarus24" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",Беларусь 24
+http://cdn.ottg.tv/5581/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tro" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",БелРос
+http://cdn.ottg.tv//video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="star-family" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Star Family HD UA
+http://cdn.ottg.tv/8048/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="5kanal-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",5 канал
+http://cdn.ottg.tv/7806/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="112-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",112
+http://cdn.ottg.tv/8241/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="34-dnepr" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",34 Канал
+http://cdn.ottg.tv/9439/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rti" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",4 канал HD
+http://cdn.ottg.tv/4661/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pro-vsio" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",8 канал HD
+http://cdn.ottg.tv/8335/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="enter-film" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Enter Film
+http://cdn.ottg.tv/3420/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="fauna" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Fauna
+http://cdn.ottg.tv/2317/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="lale" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Lale HD
+http://cdn.ottg.tv/6020/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="lale" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Lale
+http://cdn.ottg.tv/9805/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="musicbox-ua-hd" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Musicbox UA
+http://cdn.ottg.tv/9482/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="newsnetwork" group-title="Новостные" tvg-logo="http://pl.ottg.tv:80/icon/",News Network
+http://cdn.ottg.tv/9142/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="newsone-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",News One HD
+http://cdn.ottg.tv/6294/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",NIKI Junior HD
+http://cdn.ottg.tv/5077/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",NIKI Kids HD
+http://cdn.ottg.tv/8665/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="oboz-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",OBOZ TV HD
+http://cdn.ottg.tv/4917/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="o-tv" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",OTV
+http://cdn.ottg.tv/4787/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="star-cinema-ua" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Star Cinema HD
+http://cdn.ottg.tv/5109/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="star-family-ua" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Star Family HD
+http://cdn.ottg.tv/8048/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ua-pershy" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Перший HD
+http://cdn.ottg.tv/9279/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="vintazh" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Vintage TV
+http://cdn.ottg.tv/9187/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="xsport-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Xsport HD
+http://cdn.ottg.tv/5019/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="xsport-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",XSPORT
+http://cdn.ottg.tv/1385/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zik-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Zik HD
+http://cdn.ottg.tv/1297/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zoom-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Zoom
+http://cdn.ottg.tv/8065/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="atr-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",АТР
+http://cdn.ottg.tv/8658/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bigudi" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Бігуді
+http://cdn.ottg.tv/7141/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="hromadske" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Громадьске ТВ
+http://cdn.ottg.tv/4097/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="dacha" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Дача
+http://cdn.ottg.tv/5030/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Етно HD
+http://cdn.ottg.tv/7331/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="krt-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",КРТ
+http://cdn.ottg.tv/2488/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="m2-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",М2
+http://cdn.ottg.tv/1046/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="maxxi-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Максi ТВ
+http://cdn.ottg.tv/8190/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="maliatko-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Малятко TV
+http://cdn.ottg.tv/5341/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mega-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Мега
+http://cdn.ottg.tv/6269/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nadia" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Надия
+http://cdn.ottg.tv/7990/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nauka" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Наука
+http://cdn.ottg.tv/1419/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="nashe-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Наше HD
+http://cdn.ottg.tv/2872/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="1auto" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Первый Автомобильный
+http://cdn.ottg.tv/7319/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ua-pershy" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Перший
+http://cdn.ottg.tv/3990/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pixel" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Пиксель
+http://cdn.ottg.tv/5692/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="plusplus" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",ПлюсПлюс
+http://cdn.ottg.tv/8454/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="priamyj" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Прямий HD
+http://cdn.ottg.tv/9847/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sonce-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Сонце
+http://cdn.ottg.tv/9412/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sport1-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Спорт-1
+http://cdn.ottg.tv/1339/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sport2-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Спорт-2
+http://cdn.ottg.tv/1427/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="bolt-ru" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Болт HD Россия
+http://cdn.ottg.tv/1382/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ukraina" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Украина HD
+http://cdn.ottg.tv/5515/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Тера
+http://cdn.ottg.tv/2370/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="trofey" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Трофей HD
+http://cdn.ottg.tv/9445/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="unian-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Унiан
+http://cdn.ottg.tv/6532/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="chepe-info" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",ЧП.ТВ
+http://cdn.ottg.tv/5641/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="chernomorskaya" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Черноморская
+http://cdn.ottg.tv/1612/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="espreso-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Эспресо TV
+http://cdn.ottg.tv/9440/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="espreso-tv" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Эспресо ТВ HD
+http://cdn.ottg.tv/4231/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",Sat.1 HD DE
+http://cdn.ottg.tv/9002/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",ProSieben HD DE
+http://cdn.ottg.tv/6594/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",VOX HD DE
+http://cdn.ottg.tv/1000/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",RTL HD DE
+http://cdn.ottg.tv/3456/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",RTL 2 HD DE
+http://cdn.ottg.tv/5948/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",Kabel Eins HD DE
+http://cdn.ottg.tv/9447/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",Sky Cinema Action HD DE
+http://cdn.ottg.tv/6304/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",Sky Hits HD DE
+http://cdn.ottg.tv/8900/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",Sky Cinema HD DE
+http://cdn.ottg.tv/1381/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",Sky Sport Bundesliga 1 HD DE
+http://cdn.ottg.tv/6271/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Германия" tvg-logo="http://pl.ottg.tv:80/icon/",n-tv HD DE
+http://cdn.ottg.tv/9952/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Super Tennis HD
+http://cdn.ottg.tv/6107/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="cbs-reality" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",CBS Reality
+http://cdn.ottg.tv/4399/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/",8 Канал HD BY
+http://cdn.ottg.tv/8447/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",TVPlay Sports HD
+http://cdn.ottg.tv/7729/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ4 HD
+http://cdn.ottg.tv/2304/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv-pravo" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ Право
+http://cdn.ottg.tv/8025/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv-style" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ Стиль
+http://cdn.ottg.tv/6190/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="multik-hd" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Мультик HD
+http://cdn.ottg.tv/2273/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="muzyka-pervogo" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Музыка первого
+http://cdn.ottg.tv/8805/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kto-est-kto" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Кто есть кто
+http://cdn.ottg.tv/7182/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="malysh" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Малыш
+http://cdn.ottg.tv/4852/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ryzhy" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Рыжий
+http://cdn.ottg.tv/5672/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinosat" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Киносат
+http://cdn.ottg.tv/6899/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="ntv-serial" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",НТВ Сериал
+http://cdn.ottg.tv/3213/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tv1000-premium" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",TV 1000 Premium HD
+http://cdn.ottg.tv/3127/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="kinoseria" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Киносерия
+http://cdn.ottg.tv/9769/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tvplay-sports-plus" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",TVPlay Sports + HD
+http://cdn.ottg.tv/4490/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",Открытый HD
+http://cdn.ottg.tv/1487/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="amc" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",AMC
+http://cdn.ottg.tv/7676/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zagorodny" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Загородный
+http://cdn.ottg.tv/5180/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zagorodnaya-zhizn" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Загородная жизнь
+http://cdn.ottg.tv/3366/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="travel-channel" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Travel Channel
+http://cdn.ottg.tv/9704/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="psixologia-21" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Психология 21
+http://cdn.ottg.tv/8819/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="domashnie-zhivotnye" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Домашние животные
+http://cdn.ottg.tv/3646/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zoopark" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Зоопарк
+http://cdn.ottg.tv/6767/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="uspex" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Успех
+http://cdn.ottg.tv/7840/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="rtg-tv" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",RTG TV
+http://cdn.ottg.tv/6063/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="telekafe" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Телекафе
+http://cdn.ottg.tv/3719/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="history" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",History
+http://cdn.ottg.tv/1410/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="cartoon-network" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Cartoon Network
+http://cdn.ottg.tv/9603/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="football-ru" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Футбол
+http://cdn.ottg.tv/7976/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="4ever-music" group-title="Музыкальные" tvg-logo="http://pl.ottg.tv:80/icon/",4 Ever music HD
+http://cdn.ottg.tv/9047/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-igra" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Игра
+http://cdn.ottg.tv/1182/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sovsek" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Совершенно секретно
+http://cdn.ottg.tv/6097/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="glazami-turista" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Глазами туриста HD
+http://cdn.ottg.tv/7083/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="paramount-comedy" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Paramount Comedy
+http://cdn.ottg.tv/8952/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tv1000" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",TV 1000
+http://cdn.ottg.tv/9948/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="hollywood" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Hollywood
+http://cdn.ottg.tv/2884/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="sony-tv" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Sony
+http://cdn.ottg.tv/9605/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="fox" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Fox
+http://cdn.ottg.tv/2166/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="foxlife" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Fox Life
+http://cdn.ottg.tv/7353/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="perec-int" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Перец International
+http://cdn.ottg.tv/5850/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="fightbox-hd" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Fightbox
+http://cdn.ottg.tv/3336/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="multimania" group-title="Детские" tvg-logo="http://pl.ottg.tv:80/icon/",Мультиландия
+http://cdn.ottg.tv/2229/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pervy-pl4" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",Первый канал HD +4
+http://cdn.ottg.tv/2806/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="football1-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Футбол 1 Украина
+http://cdn.ottg.tv/7439/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="football2-ua" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Футбол 2 Украина
+http://cdn.ottg.tv/7486/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-football1" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Футбол 1
+http://cdn.ottg.tv/7721/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-football2" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Футбол 2
+http://cdn.ottg.tv/9099/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-football3" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Футбол 3
+http://cdn.ottg.tv/7197/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="match-premier" group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/",Матч! Премьер
+http://cdn.ottg.tv/3863/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="newsone-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",News One UA
+http://cdn.ottg.tv/6656/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="tnt" group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/",ТНТ HD Orig
+http://cdn.ottg.tv/5889/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="pobeda" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Победа
+http://cdn.ottg.tv/8934/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="mir-seriala" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Мир сериала
+http://cdn.ottg.tv/9667/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="discovery-world" group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/",Discovery World
+http://cdn.ottg.tv/8568/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="zik-ua" group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/",Zik
+http://cdn.ottg.tv/5632/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="vip-premiere" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",ViP Premiere HD PREMIUM+
+http://cdn.ottg.tv/2110/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="vip-megahit" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",ViP Megahit HD PREMIUM+
+http://cdn.ottg.tv/7787/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="vip-comedy" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",ViP Comedy HD PREMIUM+
+http://cdn.ottg.tv/9807/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="muzhskoe-kino" group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/",Мужское Кино HD
+http://cdn.ottg.tv/6241/video.m3u8?username=Anatoliy76&password=marina76&token=86a7ddb476c84ef5117e964a5a898e55
